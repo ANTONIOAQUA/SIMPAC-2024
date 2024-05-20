@@ -10,20 +10,12 @@ Saiba como uma solução construída com base em Design de Interação (UI) e ex
 ## Desafios
 Refinar requisitos de alto nível para nível técnico para auxiliar no desenvolvimento de aplicação web que tem como finalidade promover automatização para o processo de avaliação do simpósio de produção acadêmica (SIMPAC) da UNIVIÇOSA.
 ## Contexto
+Atualmente, a equipe da NUPEX (Núcleo de Apoio à Pesquisa e Extensão da Univiçosa) liderada por Eliene da Silva Martins Viana, CEO da NUPEX, realiza o processo de avaliação de forma manual, o que consome tempo, aumenta o risco de erros e dificulta a organização dos dados. A necessidade de uma solução digital para substituir o processo manual tornou-se imperativa, e é neste contexto que o projeto da equipe Atomic Code foi proposto.
 
+#Ciclo de vida
+## Ciclo de vida Estrela
+O modelo estrela representa o ciclo de vida do desenvolvimento de software, focando em uma abordagem iterativa e centrada no usuário. Este modelo destaca a flexibilidade e a capacidade de adaptação às necessidades e feedback dos usuários ao longo de todo o processo de desenvolvimento. É especialmente útil em projetos onde os requisitos podem mudar frequentemente ou onde a validação contínua com o usuário é essencial para o sucesso do sistema. O modelo estrela promove um desenvolvimento ágil e adaptativo, alinhando-se às práticas modernas de engenharia de software e ao desenvolvimento centrado no usuário, garantindo que o produto final atenda de forma precisa e eficaz às expectativas e necessidades dos seus utilizadores.
 
-
-## Quem (WHO)
-### Envolvidos no Projeto
-- **Equipe de Design e Desenvolvimento:**
-- Antônio Henrico Aguiar Lopes (CEO)
-- Vinicius Fontes (SCRUM, PO, Design, Analista de sistema)
-- ?? (PO, Design, Analista de sistema, SCRUM)
-- Gabriel Ribas Pena (Analista de sistema, SCRUM, PO, Design)
-- ?? (Design, Analista de sistema, SCRUM, PO)
-- **Clientes e Stakeholders:**
-  - NUPEX - Núcleo de Ensino, Pesquisa e Extensão
-  - Eliene Coordenadora SIMPAC
 
 ### Usuários-Alvo
 - Gestores/Organizadores do SIMPAC
@@ -158,4 +150,15 @@ Considerações Finais:
 O SIMPAC não é mais apenas um simpósio; tornou-se um exemplo vivo de como a inovação, aliada ao design inteligente, pode transformar desafios em triunfos. A história de Marcos e a ferramenta de Design de Interação agora são parte integrante do legado do SIMPAC, inspirando futuras edições a alcançarem a excelência na produção acadêmica. Este projeto não é apenas uma conclusão; é um convite para um novo capítulo de eficiência, agilidade e excelência no mundo acadêmico.
 
 Agradecemos a todos os envolvidos por fazerem do SIMPAC um verdadeiro marco na interseção entre tecnologia, design e produção acadêmica. Que esta jornada inspire muitos outros a transformarem desafios em oportunidades de triunfo.
+
+### Envolvidos no Projeto
+- **Equipe de Design e Desenvolvimento:**
+- Antônio Henrico Aguiar Lopes (CEO)
+- Vinicius Fontes (SCRUM, PO, Design, Analista de sistema)
+- ?? (PO, Design, Analista de sistema, SCRUM)
+- Gabriel Ribas Pena (Analista de sistema, SCRUM, PO, Design)
+- ?? (Design, Analista de sistema, SCRUM, PO)
+- **Clientes e Stakeholders:**
+  - NUPEX - Núcleo de Ensino, Pesquisa e Extensão
+  - Eliene Coordenadora SIMPAC
 
