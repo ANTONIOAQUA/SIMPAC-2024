@@ -13,6 +13,9 @@ Atualmente, a equipe da NUPEX (Núcleo de Apoio à Pesquisa e Extensão da Univi
 ## Ciclo de vida Estrela
 O modelo estrela representa o ciclo de vida do desenvolvimento de software, focando em uma abordagem iterativa e centrada no usuário. Este modelo destaca a flexibilidade e a capacidade de adaptação às necessidades e feedback dos usuários ao longo de todo o processo de desenvolvimento. É especialmente útil em projetos onde os requisitos podem mudar frequentemente ou onde a validação contínua com o usuário é essencial para o sucesso do sistema. O modelo estrela promove um desenvolvimento ágil e adaptativo, alinhando-se às práticas modernas de engenharia de software e ao desenvolvimento centrado no usuário, garantindo que o produto final atenda de forma precisa e eficaz às expectativas e necessidades dos seus utilizadores.
 
+# Análise de tarefas usuários e função
+Rebert
+
 
 ### Usuários-Alvo
 - Gestores/Organizadores do SIMPAC
@@ -34,7 +37,7 @@ O SIMPAC, um simpósio acadêmico, enfrenta desafios na entrega eficiente de res
 - Otimizar o Tempo
 
 ---
-## Storytelling
+## Narrativa
 Há muito tempo, em um mundo acadêmico não tão distante, um dedicado organizador enfrentava um desafio épico. Seu nome era Marcos, e ele liderava a organização do SIMPAC, um prestigiado simpósio de produção acadêmica. A missão de Marcos era grandiosa: garantir que cada participante recebesse uma avaliação justa e rápida.
 
 No entanto, o destino lhe impôs um obstáculo formidável. Cada processo avaliativo exigia horas intermináveis de trabalho manual, desde a separação dos projetos até o redirecionamento correto. E como se isso não bastasse, o cálculo das notas finais era uma tarefa hercúlea, consumindo não apenas o tempo de Marcos, mas também a paciência de todos os envolvidos.
@@ -47,33 +50,44 @@ E assim, a história de Marcos e a ferramenta de Design de Interação se tornou
 
 No final, Marcos não era apenas um organizador; ela se tornou uma verdadeiro guardião da eficiência, mostrando que, com a ferramenta certa, até mesmo os desafios mais formidáveis podem ser superados. E assim, a cada SIMPAC subsequente, a lembrança da jornada de Marcos continuava a inspirar e guiar aqueles que buscavam a excelência na produção acadêmica.
 
-## WHO?
-
 ## Personas
 Baseado no storytelling, as personas foram criadas para representar os stakeholders.
 ![persona](./Processos/Sprint_3/Relatorio%20Atualizado/Persona-1_page-0001.jpg)
+imagem 2
 ![persona2](./Processos/Sprint_3/Relatorio%20Atualizado/Persona-1_page-0002.jpg)
+imagem 3
+
+Pedro irá refazer as imagens
 
 ---
-
-## WHEN/WHERE?
 
 ### Mapa de Empatia
 - Para entender melhor as necessidades dos stakeholders, utilizamos o mapa de empatia, assim tivemos uma visão de onde focar nossos estudos para criarmos uma solução de agrado a todos.
 ![Mapa_Empatia](./Processos/Sprint_3/Relatorio%20Atualizado/Mapa_de_Empatia_1.pdf.png)
+imagem 4
 ![Mapa_Empatia2](./Processos/Sprint_3/Relatorio%20Atualizado/Mapa_de_Empatia_2.pdf.png)
+imagem 5
 
-### Pesquisa e Descoberta
-#### Metodologia
-- Reunião de Entendimento do SIMPAC
-- Análise de Concorrência
-- Pesquisa para Identificar Repetições e Pontos a Melhorar
-- Testes de Usabilidade em Duas Faixas Etárias Distintas
+## Avaliação - análise de tarefa usuários e função
+Gabriel  Ribas
 
-#### Resultados da Pesquisa
-- Identificação de 3 Nichos de Usuários
-- Dificuldades Relatadas pelos Usuários Atuais
-- Necessidade de Acesso Rápido aos Resultados
+#Engenharia de requisitos
+##Elicitação de requisitos
+ANEXAR AQUI
+
+##Análise de requisitos
+ANEXAR AQUI (MODELOS FEITOS) ESII
+
+##Avaliação - Especificação de requisitos
+###Validação de requisitos com o cliente
+Lucas Santana
+
+#Projeto conceitual e concepção do design
+##Identidade visual
+Vinicius Fontes
+
+
+
 
 ### Design e Iteração
 #### Soluções Propostas
