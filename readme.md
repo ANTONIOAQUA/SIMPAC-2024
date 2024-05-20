@@ -5,31 +5,28 @@ imagem 1
 
 # Visão Geral
 ## Desafios
-Refinar requisitos de alto nível para nível técnico para auxiliar no desenvolvimento de aplicação web que tem como finalidade promover automatização para o processo de avaliação do simpósio de produção acadêmica (SIMPAC) da UNIVIÇOSA.
+V1 Refinar requisitos de alto nível para nível técnico para auxiliar no desenvolvimento de aplicação web que tem como finalidade promover automatização para o processo de avaliação do simpósio de produção acadêmica (SIMPAC) da UNIVIÇOSA.
+V2 O SIMPAC, um simpósio acadêmico, enfrenta desafios na entrega eficiente de resultados e na gestão manual das avaliações. O projeto visa otimizar esse processo por meio de uma aplicação que proporciona eficiência na organização de projetos por curso, resultando em entregas mais rápidas e menos trabalho repetitivo para os organizadores.
+
 ## Contexto
 Atualmente, a equipe da NUPEX (Núcleo de Apoio à Pesquisa e Extensão da Univiçosa) liderada por Eliene da Silva Martins Viana, CEO da NUPEX, realiza o processo de avaliação de forma manual, o que consome tempo, aumenta o risco de erros e dificulta a organização dos dados. A necessidade de uma solução digital para substituir o processo manual tornou-se imperativa, e é neste contexto que o projeto da equipe Atomic Code foi proposto.
 
-#Ciclo de vida
+# Ciclo de vida
 ## Ciclo de vida Estrela
 O modelo estrela representa o ciclo de vida do desenvolvimento de software, focando em uma abordagem iterativa e centrada no usuário. Este modelo destaca a flexibilidade e a capacidade de adaptação às necessidades e feedback dos usuários ao longo de todo o processo de desenvolvimento. É especialmente útil em projetos onde os requisitos podem mudar frequentemente ou onde a validação contínua com o usuário é essencial para o sucesso do sistema. O modelo estrela promove um desenvolvimento ágil e adaptativo, alinhando-se às práticas modernas de engenharia de software e ao desenvolvimento centrado no usuário, garantindo que o produto final atenda de forma precisa e eficaz às expectativas e necessidades dos seus utilizadores.
 
 # Análise de tarefas usuários e função
 Rebert
 
-
 ### Usuários-Alvo
 - Gestores/Organizadores do SIMPAC
 - Avaliadores e Grupos Avaliados
 - Público Afetado pelos Resultados
 
-## Onde (Where)
 ### Ambiente de Utilização
 - **Online:**
   - A aplicação é acessada por meio de navegadores web, garantindo acessibilidade a partir de qualquer localização com acesso à internet.
 
-## Por Que (Why)
-### Desafio
-O SIMPAC, um simpósio acadêmico, enfrenta desafios na entrega eficiente de resultados e na gestão manual das avaliações. O projeto visa otimizar esse processo por meio de uma aplicação que proporciona eficiência na organização de projetos por curso, resultando em entregas mais rápidas e menos trabalho repetitivo para os organizadores.
 
 ### Objetivos do Projeto
 - Automatizar a Organização de Projetos
@@ -69,24 +66,25 @@ imagem 4
 imagem 5
 
 ## Avaliação - análise de tarefa usuários e função
-Gabriel  Ribas
+Gabriel  Ribas.
 
-#Engenharia de requisitos
-##Elicitação de requisitos
+---
+
+# Engenharia de requisitos
+
+## Elicitação de requisitos
 ANEXAR AQUI
 
-##Análise de requisitos
+## Análise de requisitos
 ANEXAR AQUI (MODELOS FEITOS) ESII
 
-##Avaliação - Especificação de requisitos
-###Validação de requisitos com o cliente
+## Avaliação - Especificação de requisitos
+### Validação de requisitos com o cliente
 Lucas Santana
 
 #Projeto conceitual e concepção do design
 ##Identidade visual
 Vinicius Fontes
-
-
 
 
 ### Design e Iteração
