@@ -82,8 +82,8 @@ ANEXAR AQUI (MODELOS FEITOS) ESII
 ### Validação de requisitos com o cliente
 Lucas Santana
 
-#Projeto conceitual e concepção do design
-##Identidade visual
+# Projeto conceitual e concepção do design
+## Identidade visual
 Vinicius Fontes
 
 
@@ -102,13 +102,17 @@ Vinicius Fontes
 - Versão de baixo nível no papel
 
 ![V.1 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1%20papel.jpg)
+imagem 7
 ![V.1-1 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d1.1%20papel.jpg)
+imagem 8
 ![V.1-2 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1.2%20papel.jpg)
+imagem 9
 
 ### Fluxograma
 - Foi organizado um fluxograma para orgarnizar as informações, identificar ações que podem ser feitas para os objetivos da organização ou avaliador.
 
 ![Fluxograma](./Processos/Sprint_4/Fluxograma%20SIMPAC.png)
+imagem 10
 
 ### Wireframe
 A partir do fluxograma, foi criado então o wireframe, que é uma representação visual básica e esquemática da estrutura de nossa aplicação web. Seu objetivo principal pe definir a distribuição de elementos da natela, sem se preocupar muito com detalhes visuais.
@@ -120,18 +124,17 @@ A partir do fluxograma, foi criado então o wireframe, que é uma representaçã
 - Para os resultados, que serão disponíveis apenas à organização do evento, lhe será disposto um login e ao entrar, basta escolher o curso que deseja olhar no momento, e será mostrado uma tabela com as notas tanto em poster quanto apresentações orais.
 
 ![Wireframe](./Processos/Sprint_4/Wireframe.png)
+imagem 11
 
 ### Protótipo de Media Fidelidade
 - Pelo aplicativo Figma foi desenvolvido um protótipo de média fidelidade, com o uso de componentes para simular botões e passando uma ideia de como funcionaria a aplicação.
-![Visão_Prancheta](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/Visão%20alta.png) 
+![Visão_Prancheta](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/Visão%20alta.png)
+imagem 13
 
 # Protótipo de Alta Fidelidade
 
 - [Protótipo_Mobile](https://www.figma.com/proto/yDMbtaIZQP5urNRLNSLaIW/SIMPAC-por-Vinicius?type=design&node-id=1-4&t=I9H7ZyO9Fwrh1jV3-1&scaling=scale-down&page-id=32%3A289&starting-point-node-id=1%3A4&show-proto-sidebar=1&mode=design)
 - [Protótipo_Desktop](https://www.figma.com/proto/bKh50EThTPfSIAmffkghy4/Untitled?type=design&node-id=0-3&t=LEdIqh2ObP9xoNPn-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=0%3A3&mode=design)
-
-
-
 
 
 ### Conclusão Final
@@ -163,10 +166,11 @@ Agradecemos a todos os envolvidos por fazerem do SIMPAC um verdadeiro marco na i
 ### Envolvidos no Projeto
 - **Equipe de Design e Desenvolvimento:**
 - Antônio Henrico Aguiar Lopes (CEO)
-- Vinicius Fontes (SCRUM, PO, Design, Analista de sistema)
-- ?? (PO, Design, Analista de sistema, SCRUM)
-- Gabriel Ribas Pena (Analista de sistema, SCRUM, PO, Design)
-- ?? (Design, Analista de sistema, SCRUM, PO)
+- Vinicius Fontes
+- Lucas Fontes 
+- Gabriel Ribas Pena 
+- André 
+- Pedro 
 - **Clientes e Stakeholders:**
   - NUPEX - Núcleo de Ensino, Pesquisa e Extensão
   - Eliene Coordenadora SIMPAC
