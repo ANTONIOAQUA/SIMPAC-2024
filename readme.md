@@ -6,30 +6,21 @@
 ### Introdução
 Saiba como uma solução construída com base em Design de Interação (UI) e experiência do Usuário (UX) busca melhorar a experiência de uma organizadora que enfrenta o trabalho manual de separar e redirecionar cada processo avaliativo e, posteriormente, calcular as notas finais. Isso se aplica ao contexto do SIMPAC, um simpósio de produção acadêmica premiado ao final, onde a entrega rápida dos resultados é crucial.
 
-## Quando (WHEN)
-### Cronograma do Projeto
-- Início do Projeto: [ 20*09/2023 ]
-- Término do Projeto: [ 29/11/2023]
+# Visão Geral
+## Desafios
+Refinar requisitos de alto nível para nível técnico para auxiliar no desenvolvimento de aplicação web que tem como finalidade promover automatização para o processo de avaliação do simpósio de produção acadêmica (SIMPAC) da UNIVIÇOSA.
+## Contexto
 
-### Fases do Projeto
-1. **Pesquisa e Descoberta:**
-    - [25/09/2023 à 29/09/2023]
-
-2. **Design e Iteração:**
-    - [11/10/2023 à 31/10/2023]
-
-3. **Testes e Validação:**
-    - [01/11/2023 à 29/11/2023]
 
 
 ## Quem (WHO)
 ### Envolvidos no Projeto
 - **Equipe de Design e Desenvolvimento:**
-- Marcos Vinícius Costa Coelho (CEO)
+- Antônio Henrico Aguiar Lopes (CEO)
 - Vinicius Fontes (SCRUM, PO, Design, Analista de sistema)
-- Higor Luiz Saraiva Rigueira Queiroz (PO, Design, Analista de sistema, SCRUM)
+- ?? (PO, Design, Analista de sistema, SCRUM)
 - Gabriel Ribas Pena (Analista de sistema, SCRUM, PO, Design)
-- João Victor Gomes Lopes de Abreu (Design, Analista de sistema, SCRUM, PO)
+- ?? (Design, Analista de sistema, SCRUM, PO)
 - **Clientes e Stakeholders:**
   - NUPEX - Núcleo de Ensino, Pesquisa e Extensão
   - Eliene Coordenadora SIMPAC
