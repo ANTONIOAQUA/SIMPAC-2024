@@ -1,10 +1,7 @@
 # Estudo de Caso de UX/UI - Projeto SIMPAC
 
 ![Logo Atomic Code](./Processos/Sprint_1/Documentos/Logo_Atomic_Code.jpeg)
-
-## O Que (WHAT)
-### Introdução
-Saiba como uma solução construída com base em Design de Interação (UI) e experiência do Usuário (UX) busca melhorar a experiência de uma organizadora que enfrenta o trabalho manual de separar e redirecionar cada processo avaliativo e, posteriormente, calcular as notas finais. Isso se aplica ao contexto do SIMPAC, um simpósio de produção acadêmica premiado ao final, onde a entrega rápida dos resultados é crucial.
+imagem 1
 
 # Visão Geral
 ## Desafios
