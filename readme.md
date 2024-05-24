@@ -21,7 +21,7 @@ imagem 2
 
 # Análise de tarefas usuários e função
 
-# WHY (Motivo e Objetivo do Sistema)
+## WHY (Motivo e Objetivo do Sistema)
 A implementação deste sistema é fundamentada em uma série de razões estratégicas e
 funcionais, visando aprimorar a eficiência, a colaboração e a experiência global no
 gerenciamento de projetos do SIMPAC. Abaixo estão os principais motivos que respaldam
