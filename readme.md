@@ -16,27 +16,79 @@ Atualmente, a equipe da NUPEX (Núcleo de Apoio à Pesquisa e Extensão da Univi
 O modelo estrela representa o ciclo de vida do desenvolvimento de software, focando em uma abordagem iterativa e centrada no usuário. Este modelo destaca a flexibilidade e a capacidade de adaptação às necessidades e feedback dos usuários ao longo de todo o processo de desenvolvimento. É especialmente útil em projetos onde os requisitos podem mudar frequentemente ou onde a validação contínua com o usuário é essencial para o sucesso do sistema. O modelo estrela promove um desenvolvimento ágil e adaptativo, alinhando-se às práticas modernas de engenharia de software e ao desenvolvimento centrado no usuário, garantindo que o produto final atenda de forma precisa e eficaz às expectativas e necessidades dos seus utilizadores.
 
 ![Ciclo De vida Estrela](/Processos/Ciclo%20De%20vida%20estrela.png)
+
 imagem 2
 
 # Análise de tarefas usuários e função
-.Rebert 
+
+# WHY (Motivo e Objetivo do Sistema)
+A implementação deste sistema é fundamentada em uma série de razões estratégicas e
+funcionais, visando aprimorar a eficiência, a colaboração e a experiência global no
+gerenciamento de projetos do SIMPAC. Abaixo estão os principais motivos que respaldam
+a adoção deste sistema.
+
+### Otimização da Eficiência Operacional 
+O sistema oferece uma plataforma centralizada e integrada, permitindo
+aos administradores e avaliadores gerenciarem dados, prazos e notificações de
+forma eficiente. Isso resulta em uma redução significativa no tempo dedicado a
+tarefas administrativas, liberando recursos para focar em atividades mais
+estratégicas.
+
+### Aprimoramento da Colaboração 
+A implementação do sistema promove uma comunicação mais eficaz
+entre administradores, avaliadores e participantes. Facilita a troca de
+informações, feedbacks e atualizações em tempo real, fortalecendo a
+colaboração e a sinergia na comunidade acadêmica. 
+
+### Facilidade de Acesso e Usabilidade 
+Por quê: A natureza baseada na web do sistema proporciona acessibilidade
+global, permitindo que usuários acessem a plataforma de qualquer lugar, a
+qualquer momento. Sua interface intuitiva e amigável facilita a adoção e o uso
+efetivo, independentemente do nível de familiaridade com tecnologia. 
+
+### Transparência e Acompanhamento 
+O sistema oferece transparência no processo de submissão e avaliação
+de projetos, prazos e feedbacks. Isso permite que administradores, avaliadores e
+participantes acompanhem o progresso dos projetos de forma clara e eficaz,
+resultando em uma gestão mais informada e eficiente
+
+### Segurança de Dados e Controle de Acesso 
+A implementação do sistema promove a segurança de dados, com a
+utilização de protocolos modernos de criptografia e práticas de segurança. O
+controle de acesso é centralizado, permitindo que administradores definam
+permissões de forma granular, garantindo a confidencialidade e a integridade dos
+dados. 
+
+## Objetivo do Sistema 
+
+Após a reunião, pensamos em um projeto com o objetivo de facilitar os processos, com
+as principais funções:
+- Cadastro de Administradores, Avaliadores e Avaliações.
+- Acesso para todos que quiserem ver os resultados dos projetos.
+- Menu para escolha de login para Administradores e Avaliadores.
+- Menu de acesso para ver os resultados dos projetos.
+- Redução do trabalho manual para otimizar o tempo gasto. 
+
+Administradores e avaliadores deverão acessar o sistema utilizando um e-mail e senha de
+segurança para garantir a proteção dos dados e a integridade das avaliações.
+O sistema contará com recursos que permitirão que todos os usuários possam acessá-lo
+para ver os resultados dos projetos. No entanto, o acesso a informações privadas será
+restrito, com cadastro permitido apenas para pessoas autorizadas, tais como:
+Professores envolvidos, Avaliadores e Administradores.
+O sistema será acessível via web, garantindo
+flexibilidade e conveniência para todos os usuários. 
+
+### Quais seriam os problemas? 
+
+- Tentativa de cadastro de projetos a serem avaliados faltando dados no formulário.
+- Atrasos na conclusão das tarefas devido ao serviço ser feito de forma manual,
+afetando outras pessoas envolvidas. 
+
 
 ### Usuários-Alvo
 - Gestores/Organizadores do SIMPAC
 - Avaliadores e Grupos Avaliados
 - Público Afetado pelos Resultados
-
-### Ambiente de Utilização
-- **Online:**
-  - A aplicação é acessada por meio de navegadores web, garantindo acessibilidade a partir de qualquer localização com acesso à internet.
-
-
-### Objetivos do Projeto
-- Automatizar a Organização de Projetos
-- Melhorar a Entrega de Resultados
-- Otimizar o Tempo
-
-### Análise de tarefas
 
 (Colocar aqui).
 
