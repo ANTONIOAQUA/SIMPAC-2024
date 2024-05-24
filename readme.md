@@ -15,7 +15,7 @@ Atualmente, a equipe da NUPEX (Núcleo de Apoio à Pesquisa e Extensão da Univi
 ## Ciclo de vida Estrela
 O modelo estrela representa o ciclo de vida do desenvolvimento de software, focando em uma abordagem iterativa e centrada no usuário. Este modelo destaca a flexibilidade e a capacidade de adaptação às necessidades e feedback dos usuários ao longo de todo o processo de desenvolvimento. É especialmente útil em projetos onde os requisitos podem mudar frequentemente ou onde a validação contínua com o usuário é essencial para o sucesso do sistema. O modelo estrela promove um desenvolvimento ágil e adaptativo, alinhando-se às práticas modernas de engenharia de software e ao desenvolvimento centrado no usuário, garantindo que o produto final atenda de forma precisa e eficaz às expectativas e necessidades dos seus utilizadores.
 
-![Ciclo De vida Estrela](/Processos/2024/Ciclo%20De%20vida%20estrela.png)
+![Ciclo De vida Estrela](/Processos/Ciclo%20De%20vida%20estrela.png)
 imagem 2
 
 # Análise de tarefas usuários e função
