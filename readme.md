@@ -1,7 +1,13 @@
-# Estudo de Caso de UX/UI - Projeto SIMPAC
+# Projeto Evoluir
 
-![Logo Atomic Code](./Processos/Sprint_1/Documentos/Logo_Atomic_Code.jpeg)
-imagem 1
+<p align="center">
+  <img src="./Processos/Sprint_1/Logo/Logo_Atomic_Code400x400.jpeg" alt="Logo Atomic Code" />
+  <br />
+  Figura 1
+</p>
+
+
+# Projeto SIMPAC
 
 # Visão Geral
 ## Desafios 
@@ -15,9 +21,12 @@ Atualmente, a equipe da NUPEX (Núcleo de Apoio à Pesquisa e Extensão da Univi
 ## Ciclo de vida Estrela
 O modelo estrela representa o ciclo de vida do desenvolvimento de software, focando em uma abordagem iterativa e centrada no usuário. Este modelo destaca a flexibilidade e a capacidade de adaptação às necessidades e feedback dos usuários ao longo de todo o processo de desenvolvimento. É especialmente útil em projetos onde os requisitos podem mudar frequentemente ou onde a validação contínua com o usuário é essencial para o sucesso do sistema. O modelo estrela promove um desenvolvimento ágil e adaptativo, alinhando-se às práticas modernas de engenharia de software e ao desenvolvimento centrado no usuário, garantindo que o produto final atenda de forma precisa e eficaz às expectativas e necessidades dos seus utilizadores.
 
-![Ciclo De vida Estrela](/Processos/Ciclo%20De%20vida%20estrela.png)
+<p align="center">
+  <img src="./Processos/Sprint_3/Ciclo_De_vida_estrela_475x285.png" alt="Ciclo De vida Estrela" />
+  <br />
+  Figura 2
+</p>
 
-imagem 2
 
 # Análise de tarefas usuários e função
 
