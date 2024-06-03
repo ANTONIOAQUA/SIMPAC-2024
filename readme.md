@@ -1,7 +1,10 @@
-# Estudo de Caso de UX/UI - Projeto SIMPAC
+# Projeto Evoluir
 
-![Logo Atomic Code](./Processos/Sprint_1/Documentos/Logo_Atomic_Code.jpeg)
-imagem 1
+
+![Logo Atomic Code](./Processos/Sprint_1/Logo/Logo_Atomic_Code 400x400.png)
+Figura 1
+
+# Projeto SIMPAC
 
 # Visão Geral
 ## Desafios 
