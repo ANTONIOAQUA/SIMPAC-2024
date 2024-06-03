@@ -205,11 +205,6 @@ imagem XX
 ![V.1-2 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1.2%20papel.jpg)
 imagem XX
 
-## Protótipo de Media Fidelidade
-- Pelo aplicativo Figma foi desenvolvido um protótipo de média fidelidade, com o uso de componentes para simular botões e passando uma ideia de como funcionaria a aplicação.
-![Visão_Prancheta](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/Visão%20alta.png)
-
-imagem XX
 
 ## Protótipo de Alta Fidelidade
 
