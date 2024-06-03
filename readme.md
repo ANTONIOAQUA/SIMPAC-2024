@@ -11,8 +11,7 @@
 
 # Visão Geral
 ## Desafios 
-V1 Refinar requisitos de alto nível para nível técnico para auxiliar no desenvolvimento de aplicação web que tem como finalidade promover automatização para o processo de avaliação do simpósio de produção acadêmica (SIMPAC) da UNIVIÇOSA.                                                                  
-V2 O SIMPAC, um simpósio acadêmico, enfrenta desafios na entrega eficiente de resultados e na gestão manual das avaliações. O projeto visa otimizar esse processo por meio de uma aplicação que proporciona eficiência na organização de projetos por curso, resultando em entregas mais rápidas e menos trabalho repetitivo para os organizadores.
+O SIMPAC, um simpósio acadêmico, enfrenta desafios na entrega eficiente de resultados e na gestão manual das avaliações. O projeto visa otimizar esse processo por meio de uma aplicação que proporciona eficiência na organização de projetos por curso, resultando em entregas mais rápidas e menos trabalho repetitivo para os organizadores.
 
 ## Contexto
 Atualmente, a equipe da NUPEX (Núcleo de Apoio à Pesquisa e Extensão da Univiçosa) liderada por Eliene da Silva Martins Viana, CEO da NUPEX, realiza o processo de avaliação de forma manual, o que consome tempo, aumenta o risco de erros e dificulta a organização dos dados. A necessidade de uma solução digital para substituir o processo manual tornou-se imperativa, e é neste contexto que o projeto da equipe Atomic Code foi proposto.
@@ -30,7 +29,13 @@ O modelo estrela representa o ciclo de vida do desenvolvimento de software, foca
 
 # Análise de tarefas usuários e função
 
-## WHY (Motivo e Objetivo do Sistema)
+## WHY
+
+### CENÁRIO ATUAL
+Atualmente, durante o SIMPAC (Simpósio de Pesquisa e Extensão da Univiçosa), o processo de avaliação é organizado pela equipe da NUPEX (Núcleo de Apoio à Pesquisa e Extensão da Univiçosa), sob a liderança de Eliene da Silva Martins Viana. Este processo é realizado manualmente, o que demanda um considerável investimento de tempo, aumentando os riscos de erros e tornando a organização dos dados mais desafiadora. A necessidade de uma solução digital para substituir esse método tornou-se crucial, considerando a importância do SIMPAC e a demanda por eficiência e precisão nas avaliações. É nesse contexto que o projeto da equipe Atomic Code foi proposto, com o objetivo de oferecer uma solução automatizada e integrada para otimizar o processo de avaliação durante o SIMPAC.
+
+### Motivo e Objetivo do Sistema
+
 A implementação deste sistema é fundamentada em uma série de razões estratégicas e
 funcionais, visando aprimorar a eficiência, a colaboração e a experiência global no
 gerenciamento de projetos do SIMPAC. Abaixo estão os principais motivos que respaldam
