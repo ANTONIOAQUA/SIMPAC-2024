@@ -1,10 +1,7 @@
-# Projeto Evoluir
+# Estudo de Caso de UX/UI - Projeto SIMPAC
 
-
-![Logo Atomic Code](./Processos/Sprint_1/Logo/Logo_Atomic_Code 400x400.png)
-Figura 1
-
-# Projeto SIMPAC
+![Logo Atomic Code](./Processos/Sprint_1/Documentos/Logo_Atomic_Code.jpeg)
+imagem 1
 
 # Visão Geral
 ## Desafios 
@@ -147,7 +144,10 @@ ANEXAR AQUI (MODELOS FEITOS) ESII
 
 ## Avaliação - Especificação de requisitos
 ### Validação de requisitos com o cliente
-Lucas Santana
+- Entramos em contato com a cliente por meio do aplicativo de mensagens WhatsApp para validar os requisitos de usuário e de sistema.
+- Os responsáveis pelo projeto apresentaram algumas dúvidas sobre o protótipo que não ficaram claras.
+- Anotamos as correções necessárias para realizar as alterações no protótipo.
+- A cliente assinou o Documento de Validação de Requisitos, contendo os requisitos de usuário e de sistema, validando assim os requisitos.
 
 # Projeto conceitual e concepção do design
 ## Identidade visual
