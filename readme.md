@@ -222,7 +222,7 @@ Paleta de Cores:
 - Criação e Edição de Trabalhos Simplificadas
 
 
-### Wireframe
+## Wireframe
 A partir do fluxograma, foi criado então o wireframe, que é uma representação visual básica e esquemática da estrutura de nossa aplicação web. Seu objetivo principal pe definir a distribuição de elementos da natela, sem se preocupar muito com detalhes visuais.
 
 - Pela tela inicial será possível observar informações como em qual edição o evento se encontra. E qual caminho o usuario gostaria de seguir.
@@ -233,7 +233,7 @@ A partir do fluxograma, foi criado então o wireframe, que é uma representaçã
 
 ![Wireframe](./Processos/Sprint_4/Wireframe.png)
 
-imagem XX
+Figura XX - WireFrame Final
 
 # Protótipos
 
@@ -248,24 +248,32 @@ imagem XX
 
 
 ## Protótipo de Alta Fidelidade
+### Prototipação
+
+O Figma foi utilizado como ferramenta de prototipação desenolvendo assim o prototipo de alta fidelidade, corrigndo alguns pontos e refinando ainda mais a usabilidade do sistema para fornecer uma experiência mais agradável aos usuários.
+-Existem dois protótipos, o desenvolvido pensado em dispositivos móveis e desktop.
 
 - [Protótipo_Mobile](https://www.figma.com/proto/yDMbtaIZQP5urNRLNSLaIW/SIMPAC-por-Vinicius?type=design&node-id=1-4&t=I9H7ZyO9Fwrh1jV3-1&scaling=scale-down&page-id=32%3A289&starting-point-node-id=1%3A4&show-proto-sidebar=1&mode=design)
 - [Protótipo_Desktop](https://www.figma.com/proto/bKh50EThTPfSIAmffkghy4/Untitled?type=design&node-id=0-3&t=LEdIqh2ObP9xoNPn-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=0%3A3&mode=design)
 
+## Avaliação do protótipo
+[AINDA NÃO FEITO]
+# Processo contínuo
+
+- [Vídeo explicativo sobre o protótipo]
+- Sera realizado um Pitch do projeto ao cliente, especialistas e investidores, frisar novamente todas as funcionalidades do protótipo e mostrar o sitema (protótipo), e como iria auxilar as partes interessadas (avaliadores e avaliados no SIMPAC) a solucinar os problemas relacionados a falta de informatização no processo de avaliação de projetos do SIMPAC-UNIVIÇOSA;
 
 # Implementação
 O projeto atual está sendo desenvolvido com base nas matérias de Interação Humano Computador e Engenharia de Software II, a implementação do trabalho em questão será feita no próximo semestre na matéria de Arquitetura de Software e Projeto Integrador.
 
-### Envolvidos no Projeto
-- **Equipe de Design e Desenvolvimento:**
-- Antônio Henrico Aguiar Lopes (CEO)
-- Vinicius Fontes
-- Lucas Fontes 
-- Gabriel Ribas Pena 
-- André 
-- Pedro 
-- **Clientes e Stakeholders:**
-  - NUPEX - Núcleo de Ensino, Pesquisa e Extensão
-  - Eliene - Coordenadora SIMPAC
+### Esse projeto foi desenvolvido por:
+
+- Antônio Henrico Aguiar Lopes, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Vinicius Fontes, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Lucas Fontes, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Gabriel Ribas Pena, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- André, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Pedro, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Reberth, Estudante de Desenvolvimento de Software da UNIVIÇOSA
     
 
