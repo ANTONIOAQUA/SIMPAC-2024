@@ -230,11 +230,8 @@ A partir do fluxograma, foi criado então o wireframe, que é uma representaçã
 
 ![Wireframe](./Processos/Sprint_4/Wireframe.png)
 
-Figura XX - WireFrame Final
 
-# Protótipos
-
-## Versão de baixa fidelidade
+### Versão de baixa fidelidade
 
 ![V.1 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1%20papel.jpg)
 imagem XX
@@ -243,9 +240,10 @@ imagem XX
 ![V.1-2 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1.2%20papel.jpg)
 imagem XX
 
+Figura XX - WireFrame Final
 
-## Protótipo de Alta Fidelidade
-### Prototipação
+# Protótipo de Alta Fidelidade
+## Prototipação
 
 O Figma foi utilizado como ferramenta de prototipação desenolvendo assim o prototipo de alta fidelidade, corrigndo alguns pontos e refinando ainda mais a usabilidade do sistema para fornecer uma experiência mais agradável aos usuários.
 -Existem dois protótipos, o desenvolvido pensado em dispositivos móveis e desktop.
