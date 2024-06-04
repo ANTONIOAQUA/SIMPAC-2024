@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./Processos/Sprint_1/Logo/Logo_Atomic_Code400x400.jpeg" alt="Logo Atomic Code" />
   <br />
-  Figura 1
+  Figura 1 - Logo da Atomic Code
 </p>
 
 
@@ -23,7 +23,7 @@ O modelo estrela representa o ciclo de vida do desenvolvimento de software, foca
 <p align="center">
   <img src="./Processos/Sprint_3/Ciclo_De_vida_estrela_475x285.png" alt="Ciclo De vida Estrela" />
   <br />
-  Figura 2
+  Figura 2 - Ciclo de vida em estrela
 </p>
 
 
@@ -104,9 +104,7 @@ afetando outras pessoas envolvidas.
 - Avaliadores e Grupos Avaliados
 - Público Afetado pelos Resultados
 
-(Colocar aqui).
 
----
 ## Narrativa
 Há muito tempo, em um mundo acadêmico não tão distante, um dedicado organizador enfrentava um desafio épico. Seu nome era Marcos, e ele liderava a organização do SIMPAC, um prestigiado simpósio de produção acadêmica. A missão de Marcos era grandiosa: garantir que cada participante recebesse uma avaliação justa e rápida.
 
@@ -120,53 +118,98 @@ E assim, a história de Marcos e a ferramenta de Design de Interação se tornou
 
 No final, Marcos não era apenas um organizador; ela se tornou uma verdadeiro guardião da eficiência, mostrando que, com a ferramenta certa, até mesmo os desafios mais formidáveis podem ser superados. E assim, a cada SIMPAC subsequente, a lembrança da jornada de Marcos continuava a inspirar e guiar aqueles que buscavam a excelência na produção acadêmica.
 
-## Personas
+## OMS - Análise das Partes Interessadas
+
+### Personas
 Baseado no storytelling, as personas foram criadas para representar os stakeholders.
 ![persona](./Processos/Sprint_3/Relatorio%20Atualizado/Persona-1_page-0001.jpg)
-imagem 2
+Figura 3 - Persona de Marcos Silva
 ![persona2](./Processos/Sprint_3/Relatorio%20Atualizado/Persona-1_page-0002.jpg)
-imagem 3
+Figura 4 - Persona Luana Pereira
 
-Pedro irá refazer as imagens
-
----
 
 ### Mapa de Empatia
 - Para entender melhor as necessidades dos stakeholders, utilizamos o mapa de empatia, assim tivemos uma visão de onde focar nossos estudos para criarmos uma solução de agrado a todos.
 ![Mapa_Empatia](./Processos/Sprint_3/Relatorio%20Atualizado/Mapa_de_Empatia_1.pdf.png)
-imagem 4
+Figura 5 - Mapa de Empatia Marcos Silva
 ![Mapa_Empatia2](./Processos/Sprint_3/Relatorio%20Atualizado/Mapa_de_Empatia_2.pdf.png)
-imagem 5
+Figura 6 - Mapa e Empatia de Luana Pereira
 
 ## Avaliação - análise de tarefa usuários e função
 Gabriel  Ribas.
 
 ---
 
-# Engenharia de requisitos
+## Engenharia de requisitos
 
-## Elicitação de requisitos
-ANEXAR AQUI
-## Análise de requisitos
+### Elicitação de requisitos
+
+A Elicitação de requisitos foi realizada através de uma reunião com um cliente que junto com nossa equipe foram levantados os requisitos para resolver o atual problema da avalição do SIMPAC, estes requisitos foram documentados a nível de usuário, ou seja, a um nível de explicação mais simples que o próprio cliente consegue compreender.
+
+- [Documento de requisitos a nível de usuário](Processos/Sprint_3/Requisitos_de_usuário.pdf)
+
+### Análise de requisitos
+
+- QUAL A ORDEM DOS DIAGRAMAS ??
+
 ### Fluxograma
 - Foi organizado um fluxograma para orgarnizar as informações, identificar ações que podem ser feitas para os objetivos da organização ou avaliador.
 
 ![Fluxograma](./Processos/Sprint_4/Fluxograma%20SIMPAC.png)
-imagem XX
+Figura 7 - Fluxo Grama do sitema
 
 ANEXAR AQUI (MODELOS FEITOS) ESII
 
-## Avaliação - Especificação de requisitos
+## Especificação de requisitos
+Foi realizado o refinamento dos requisitos que compunham o nível de usuário para o nível de sistema para auxiliar os programadores na etapa de desenvolvimento do sistema.
+
+- [Documento de requisitos a nível de sistema](Processos/Sprint_3/Requisitos_do_Sistema_para_o_Projeto_SIMPAC.pdf)
+
+## Avaliação - Especificação de requisitos,
 ### Validação de requisitos com o cliente
 - Entramos em contato com a cliente por meio do aplicativo de mensagens WhatsApp para validar os requisitos de usuário e de sistema.
 - Os responsáveis pelo projeto apresentaram algumas dúvidas sobre o protótipo que não ficaram claras.
 - Anotamos as correções necessárias para realizar as alterações no protótipo.
 - A cliente assinou o Documento de Validação de Requisitos, contendo os requisitos de usuário e de sistema, validando assim os requisitos.
 
-# Projeto conceitual e concepção do design
-## Identidade visual
-Vinicius Fontes
+## Projeto conceitual e concepção do design
+### Identidade visual
 
+#### Elementos Principais:
+
+- Imagem 1: Representa o "Simpósio de Produção Acadêmica," destacando a interação e apresentação de trabalhos acadêmicos.
+
+- Imagem 2: Representa o "Sistema para calcular os resultados de maneira rápida e eficaz," destacando a automatização e eficiência do sistema.
+
+Logotipo:
+
+- Nome: Utilizado com a fonte específica da que estava no site da univicosa.
+
+- Símbolo: Inclui a edição do simpósio, representada pelo elemento "XV" no exemplo, que pode ser atualizado conforme necessário.
+
+
+
+<p align="center">
+  <img src="ID visual.png" alt="Identidade Visual" />
+  <br />
+  Figura XX
+</p>
+
+#### Tipografia:
+
+- A fonte utilizada é "League Spartan" em suas variações Bold e Regular.
+
+Paleta de Cores:
+
+- #000000 (Preto): Cor sólida que passa uma sensação de seriedade e formalidade.
+
+- #205483 (Azul Escuro): Transmite confiança, segurança e estabilidade. mantendo a identidade visual da faculdade.
+
+- #00AFEFF (Azul Claro): Cor vibrante que sugere modernidade e dinamismo.
+
+- #2C2D48 (Azul Marinho): Cor elegante e profissional que complementa as outras tonalidades de azul.
+
+- #FFFFFF (Branco): Representa clareza e simplicidade, utilizada como cor de fundo para contrastar com as demais cores.
 
 ### Design e Iteração
 #### Soluções Propostas
@@ -177,8 +220,6 @@ Vinicius Fontes
 - Comunicação Segura por E-mail e Celular
 - Reformulação Geral do Design
 - Criação e Edição de Trabalhos Simplificadas
-
-
 
 
 ### Wireframe
