@@ -147,7 +147,14 @@ A Elicitação de requisitos foi realizada através de uma reunião com um clien
 
 ### Análise de requisitos
 
-- QUAL A ORDEM DOS DIAGRAMAS ??
+![Diagráma casos de uso](https://drive.google.com/file/d/1HSCV19wCrxr_p65Y4pJA0-9oUrmQJJSd/view?usp=sharing)
+![Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing)
+![Diagráma de classes](https://drive.google.com/file/d/1AuMt8c_RJhknCfidFCA7WQmffumdQa0K/view?usp=sharing)
+![Diagráma de colaboração](https://drive.google.com/file/d/15PgOX5Cf7wb9S20WSKuGeoj8pfGe3AGo/view?usp=sharing)
+![Diagráma de estados](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing)
+![Diagráma de atividade](https://drive.google.com/file/d/1QDAD4aZ3M_reVsbW9c4UJNqmsZpzd4px/view?usp=sharing)
+
+
 
 ### Fluxograma
 - Foi organizado um fluxograma para orgarnizar as informações, identificar ações que podem ser feitas para os objetivos da organização ou avaliador.
