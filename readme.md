@@ -18,10 +18,11 @@ Atualmente, a equipe da NUPEX  liderada por Eliene da Silva Martins Viana, CEO d
 O modelo estrela representa o ciclo de vida do desenvolvimento de software, focando em uma abordagem iterativa e centrada no usuário. Este modelo destaca a flexibilidade e a capacidade de adaptação às necessidades e feedback dos usuários ao longo de todo o processo de desenvolvimento. É especialmente útil em projetos onde os requisitos podem mudar frequentemente ou onde a validação contínua com o usuário é essencial para o sucesso do sistema. O modelo estrela promove um desenvolvimento ágil e adaptativo, alinhando-se às práticas modernas de engenharia de software e ao desenvolvimento centrado no usuário, garantindo que o produto final atenda de forma precisa e eficaz às expectativas e necessidades dos seus utilizadores.
 
 <p align="center">
-  <img src="./Processos/Sprint_3/Ciclo_De_vida_estrela_475x285.png" alt="Ciclo De vida Estrela" />
+  <img src="Processos/Ciclo De vida estrela.png" alt="Ciclo de vida em estrela"/>
   <br />
-  Figura 2 - Ciclo de vida em estrela
+  Figura 2 - Ciclo de vida de uma estrela
 </p>
+
 
 
 # Análise de tarefas usuários e função
@@ -129,6 +130,7 @@ Figura 5 - Mapa de Empatia Marcos Silva
 ![Mapa_Empatia2](./Processos/Sprint_3/Relatorio%20Atualizado/Mapa_de_Empatia_2.pdf.png)
 Figura 6 - Mapa e Empatia de Luana Pereira
 
+
 ## Avaliação - análise de tarefa usuários e função
 Gabriel  Ribas.
 
@@ -145,15 +147,14 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 
 ## Análise de requisitos
 ### Casos de Uso
- <br> [Diagráma casos de uso](https://drive.google.com/file/d/1HSCV19wCrxr_p65Y4pJA0-9oUrmQJJSd/view?usp=sharing) <br>
+ <br> 
+- [Diagráma casos de uso](https://drive.google.com/file/d/1HSCV19wCrxr_p65Y4pJA0-9oUrmQJJSd/view?usp=sharing) <br>
 
 #### Usuários:
 - Admin: O administrador do sistema, que tem várias responsabilidades de gerenciamento.
 - Avaliador: A pessoa que realiza as avaliações dos trabalhos.
 - Usuários: Admin e Avaliadores.
-
 #### Funcionalidades do Sistema:
-
 ##### Login e Logout
 - Todos os usuários podem entrar e sair do sistema com segurança.
 ##### Gerenciamento de Trabalhos
@@ -174,13 +175,13 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 - Avaliadores só podem vizualizar os trabalhos a quais foram designado.
 
 #### Sequência
-[Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing) <br>
+- [Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing) <br>
 #### Classes
-[Diagráma de classes](https://drive.google.com/file/d/1AuMt8c_RJhknCfidFCA7WQmffumdQa0K/view?usp=sharing) <br>
+- [Diagráma de classes](https://drive.google.com/file/d/1AuMt8c_RJhknCfidFCA7WQmffumdQa0K/view?usp=sharing) <br>
 #### Colaboração
-[Diagráma de colaboração](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
+- [Diagráma de colaboração](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
 #### Estados
-[Diagráma de estados](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
+- [Diagráma de estados](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
 ##### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
 - Login: Administradores e avaliadores usam o diagrama para entender o fluxo de login, incluindo o que acontece em caso de sucesso ou falha. <br>
 - Cadastro e Avaliação: O diagrama mostra claramente como os administradores cadastram novos projetos e como os avaliadores realizam suas avaliações, incluindo possíveis erros e suas correções .
@@ -188,7 +189,7 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 - Desenvolvimento e Manutenção: implementação: Os desenvolvedores seguem o diagrama para garantir que todos os estados e transições estão implementados corretamente. 
 - Atualizações: Em caso de atualizações ou manutenção do sistema, o diagrama ajuda a identificar rapidamente como novos estados ou transições devem ser adicionados ou modificados. O diagrama de estado é, portanto, uma ferramenta poderosa para visualizar, planejar, implementar e manter sistemas complexos, garantindo que todos os aspectos do comportamento do sistema sejam compreendidos e bem gerenciados.
 #### Atividades
-[Diagráma de atividades](https://drive.google.com/file/d/1QDAD4aZ3M_reVsbW9c4UJNqmsZpzd4px/view?usp=sharing) <br>
+- [Diagráma de atividades](https://drive.google.com/file/d/1QDAD4aZ3M_reVsbW9c4UJNqmsZpzd4px/view?usp=sharing) <br>
 
 
 
@@ -199,11 +200,11 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 Figura 7 - Fluxo Grama do sitema
 
 ## Avaliação - Especificação de requisitos 
-Foi realizado o refinamento dos requisitos que compunham o nível de usuário para o nível de sistema para auxiliar os programadores na etapa de desenvolvimento do sistema.
+Foi realizado o refinamento dos requisitos de nível de usuário para o nível de sistema para auxiliar os desenvolvedores na etapa de prototipação do sistema.
 
 - [Documento de requisitos a nível de sistema](Processos/Sprint_3/Requisitos_do_Sistema_para_o_Projeto_SIMPAC.pdf)
 
-## Avaliação - Especificação de requisitos,
+## Avaliação - Especificação de requisitos
 ### Validação de requisitos com o cliente
 - Entramos em contato com a cliente por meio do aplicativo de mensagens WhatsApp para validar os requisitos de usuário e de sistema.
 - Os responsáveis pelo projeto apresentaram algumas dúvidas sobre os requisitos que não ficaram claras.
