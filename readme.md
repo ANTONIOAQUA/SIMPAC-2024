@@ -147,7 +147,6 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 
 ## Análise de requisitos
 ### Casos de Uso
- <br> 
 - [Diagráma casos de uso](https://drive.google.com/file/d/1HSCV19wCrxr_p65Y4pJA0-9oUrmQJJSd/view?usp=sharing) <br>
 
 #### Usuários:
@@ -227,7 +226,7 @@ Foi realizado o refinamento dos requisitos de nível de usuário para o nível d
 
 - Imagem 2: Representa o "Sistema para calcular os resultados de maneira rápida e eficaz," destacando a automatização e eficiência do sistema.
 
-Logotipo:
+##### Logotipo:
 
 - Nome: Utilizado com a fonte específica da que estava no site da univicosa.
 
@@ -235,7 +234,7 @@ Logotipo:
 
 - A fonte utilizada é "League Spartan" em suas variações Bold e Regular.
 
-Paleta de Cores:
+##### Paleta de Cores:
 
 - #000000 (Preto): Cor sólida que passa uma sensação de seriedade e formalidade.
 
