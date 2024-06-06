@@ -1,5 +1,5 @@
-# Projeto Evoluir
-### Projeto SIMPAC
+# Projeto Evoluir Ti
+#### Desenvolvido por: ATOMIC CODE
 <p align="center">
   <img src="./Processos/Sprint_1/Logo/Logo_Atomic_Code400x400.jpeg" alt="Logo Atomic Code" />
   <br />
@@ -8,10 +8,10 @@
 
 # Visão Geral
 ## Desafios 
-O SIMPAC, um simpósio acadêmico, enfrenta desafios na entrega eficiente de resultados e na gestão manual das avaliações. O projeto visa otimizar esse processo por meio de uma aplicação que proporciona eficiência na organização de projetos por curso, resultando em entregas mais rápidas e menos trabalho repetitivo para os organizadores.
+O NUPEX (Núcleo de Apoio à Pesquisa e Extensão da Univiçosa) responsável por gerenciar as avaliações feitas no SIMPAC (Simpósio de Pesquisa e Extensão da Univiçosa), enfrenta desafios na entrega eficiente de resultados e na gestão manual das avaliações. O projeto visa otimizar esse processo por meio de uma aplicação que proporciona eficiência na organização de projetos por curso, resultando em entregas mais rápidas e menos trabalho repetitivo para os organizadores.
 
 ## Contexto
-Atualmente, a equipe da NUPEX (Núcleo de Apoio à Pesquisa e Extensão da Univiçosa) liderada por Eliene da Silva Martins Viana, CEO da NUPEX, realiza o processo de avaliação de forma manual, o que consome tempo, aumenta o risco de erros e dificulta a organização dos dados. A necessidade de uma solução digital para substituir o processo manual tornou-se imperativa, e é neste contexto que o projeto da equipe Atomic Code foi proposto.
+Atualmente, a equipe da NUPEX  liderada por Eliene da Silva Martins Viana, CEO da NUPEX, realiza o processo de avaliação de forma manual, o que consome tempo, aumenta o risco de erros e dificulta a organização dos dados. A necessidade de uma solução digital para substituir o processo manual tornou-se crucial, e é neste contexto que o projeto Evoluir Ti foi proposto.
 
 # Ciclo de vida
 ## Ciclo de vida Estrela
@@ -29,18 +29,18 @@ O modelo estrela representa o ciclo de vida do desenvolvimento de software, foca
 ## WHY
 
 ### CENÁRIO ATUAL
-Atualmente, durante o SIMPAC (Simpósio de Pesquisa e Extensão da Univiçosa), o processo de avaliação é organizado pela equipe da NUPEX (Núcleo de Apoio à Pesquisa e Extensão da Univiçosa), sob a liderança de Eliene da Silva Martins Viana. Este processo é realizado manualmente, o que demanda um considerável investimento de tempo, aumentando os riscos de erros e tornando a organização dos dados mais desafiadora. A necessidade de uma solução digital para substituir esse método tornou-se crucial, considerando a importância do SIMPAC e a demanda por eficiência e precisão nas avaliações. É nesse contexto que o projeto da equipe Atomic Code foi proposto, com o objetivo de oferecer uma solução automatizada e integrada para otimizar o processo de avaliação durante o SIMPAC.
+Atualmente, durante o SIMPAC , o processo de avaliação é organizado pela equipe da NUPEX, este processo é realizado manualmente, o que demanda um considerável investimento de tempo, aumentando os riscos de erros e perca ou danificação dos documntos de avaliação, além de tornar a organização dos dados mais desafiadora. A necessidade de uma solução digital para substituir esse método tornou-se crucial. 
 
 ### Motivo e Objetivo do Sistema
 
-A implementação deste sistema é fundamentada em uma série de razões estratégicas e
+A implementação do Evoluir Ti é fundamentada em uma série de razões estratégicas e
 funcionais, visando aprimorar a eficiência, a colaboração e a experiência global no
 gerenciamento de projetos do SIMPAC. Abaixo estão os principais motivos que respaldam
 a adoção deste sistema.
 
 ### Otimização da Eficiência Operacional 
-O sistema oferece uma plataforma centralizada e integrada, permitindo
-aos administradores e avaliadores gerenciarem dados, prazos e notificações de
+O Evoluir Ti oferece uma plataforma centralizada e integrada, permitindo
+aos administradores  gerenciarem dados, prazos e notificações de
 forma eficiente. Isso resulta em uma redução significativa no tempo dedicado a
 tarefas administrativas, liberando recursos para focar em atividades mais
 estratégicas.
@@ -52,42 +52,41 @@ informações, feedbacks e atualizações em tempo real, fortalecendo a
 colaboração e a sinergia na comunidade acadêmica. 
 
 ### Facilidade de Acesso e Usabilidade 
-Por quê: A natureza baseada na web do sistema proporciona acessibilidade
-global, permitindo que usuários acessem a plataforma de qualquer lugar, a
+A natureza baseada na web do sistema proporciona maior faciliadde, 
+permitindo que usuários acessem a plataforma de qualquer lugar, a
 qualquer momento. Sua interface intuitiva e amigável facilita a adoção e o uso
 efetivo, independentemente do nível de familiaridade com tecnologia. 
 
 ### Transparência e Acompanhamento 
-O sistema oferece transparência no processo de submissão e avaliação
-de projetos, prazos e feedbacks. Isso permite que administradores, avaliadores e
-participantes acompanhem o progresso dos projetos de forma clara e eficaz,
-resultando em uma gestão mais informada e eficiente
+O Evoluir Ti oferece transparência no processo de submissão e avaliação
+de projetos, prazos e feedbacks. Isso permite que administradores acompanhem
+o progresso dos projetos de forma clara e eficaz.
 
 ### Segurança de Dados e Controle de Acesso 
 A implementação do sistema promove a segurança de dados, com a
-utilização de protocolos modernos de criptografia e práticas de segurança. O
-controle de acesso é centralizado, permitindo que administradores definam
-permissões de forma granular, garantindo a confidencialidade e a integridade dos
+utilização de protocolos modernos de criptografia e práticas de segurança. 
+Administradores e avaliadores deverão acessar o sistema utilizando um e-mail e senha de
+segurança. O controle de acesso é centralizado, permitindo que administradores definam
+permissões conforme o necessário, garantindo a confidencialidade e a integridade dos
 dados. 
 
 ## Objetivo do Sistema 
 
-Após a reunião, pensamos em um projeto com o objetivo de facilitar os processos, com
+Após a reunião com a Eliene, pensamos em um sistema com o objetivo de facilitar os processos, com
 as principais funções:
-- Cadastro de Administradores, Avaliadores e Avaliações.
-- Acesso para todos que quiserem ver os resultados dos projetos.
-- Menu para escolha de login para Administradores e Avaliadores.
-- Menu de acesso para ver os resultados dos projetos.
+- Menu para escolha de login para administradores e avaliadores.
+- Cadastro de administradores, avaliadores e trabalhos (Administradores).
+- Menu de escolha de projetos (Avaliadores).
+- Menu de acesso para ver os resultados dos projetos (Administradores) .
 - Redução do trabalho manual para otimizar o tempo gasto. 
 
 Administradores e avaliadores deverão acessar o sistema utilizando um e-mail e senha de
-segurança para garantir a proteção dos dados e a integridade das avaliações.
-O sistema contará com recursos que permitirão que todos os usuários possam acessá-lo
+segurança. O sistema contará com recursos que permitirão que todos os usuários possam acessá-lo
 para ver os resultados dos projetos. No entanto, o acesso a informações privadas será
 restrito, com cadastro permitido apenas para pessoas autorizadas, tais como:
 Professores envolvidos, Avaliadores e Administradores.
 O sistema será acessível via web, garantindo
-flexibilidade e conveniência para todos os usuários. 
+flexibilidade e conveniência para os usuários. 
 
 ### Quais seriam os problemas? 
 
@@ -98,22 +97,20 @@ afetando outras pessoas envolvidas.
 
 ### Usuários-Alvo
 - Gestores/Organizadores do SIMPAC
-- Avaliadores e Grupos Avaliados
+- Avaliadores
 - Público Afetado pelos Resultados
 
 
 ## Narrativa
-Há muito tempo, em um mundo acadêmico não tão distante, um dedicado organizador enfrentava um desafio épico. Seu nome era Marcos, e ele liderava a organização do SIMPAC, um prestigiado simpósio de produção acadêmica. A missão de Marcos era grandiosa: garantir que cada participante recebesse uma avaliação justa e rápida.
+Num dia comum do SIMPAC na UniViçosa, a membro essencial do NUPEX Luana Pereira, se encontrou em uma situação desafiadora. Após um longo dia de avaliações de projetos, a professora perdeu as folhas onde havia registrado a avaliação de seus designados grupos. Foi a primeira vez que algo assim acontecia, e a sensação de desespero tomou conta dela.
 
-No entanto, o destino lhe impôs um obstáculo formidável. Cada processo avaliativo exigia horas intermináveis de trabalho manual, desde a separação dos projetos até o redirecionamento correto. E como se isso não bastasse, o cálculo das notas finais era uma tarefa hercúlea, consumindo não apenas o tempo de Marcos, mas também a paciência de todos os envolvidos.
+O não apenas abalou Luana, mas também acendeu uma luz de alerta na secretaria do NUPEX, que atende a uma necessidade urgente de evitar futuros problemas semelhantes. Além disso, o processo de avaliação manual, apesar do tradicional, era lento e vulnerável a riscos, como o ocorrido com Luana.
 
-Em meio a esse cenário desafiador, surge uma luz de esperança. Uma solução inovadora, construída com maestria em Design de Interação (UI) e Experiência do Usuário (UX), estava prestes a transformar a jornada de Marcos. Essa ferramenta revolucionária prometia aliviar o fardo do trabalho manual, trazendo eficiência e agilidade ao processo avaliativo.
+A busca por uma solução levou a cordenadora do NUPEX a um momento de reflexão sobre inovação no sistema de avaliação do SIMPAC. Em seu braid storme, ela se deparou com uma abordagem revolucionária: um aplicativo que simplificava todo o processo de avaliação, tornando-o digital e seguro.
 
-Ao adotar essa solução, Marcos não apenas se libertou das amarras do trabalho tedioso, mas também se tornou uma verdadeira heroí na busca por resultados rápidos e justos. O SIMPAC, antes repleto de desafios, floresceu com uma entrega de resultados que deixou todos boquiabertos.
+Esse sistema inovador permitiu que as avaliações fossem realizadas e organizadas por meio de um aplicação web no celular, eliminando assim os riscos de perda, otimizando o tempo e facilitando a vida dos avaliados. Com login e senha, o sistema garante a segurança e acessibilidade exclusiva aos avaliados, protegendo a confidencialidade das avaliações.
 
-E assim, a história de Marcos e a ferramenta de Design de Interação se tornou um conto lendário no mundo acadêmico. O SIMPAC não era mais apenas um simpósio, mas sim um exemplo vivo de como a inovação, aliada ao design inteligente, pode transformar desafios em triunfos.
-
-No final, Marcos não era apenas um organizador; ela se tornou uma verdadeiro guardião da eficiência, mostrando que, com a ferramenta certa, até mesmo os desafios mais formidáveis podem ser superados. E assim, a cada SIMPAC subsequente, a lembrança da jornada de Marcos continuava a inspirar e guiar aqueles que buscavam a excelência na produção acadêmica.
+A implementação desse novo sistema transformou a dinâmica do SIMPAC. Agora, o aplicativo de avaliações não apenas mitigava a possibilidade de incidentes como o de Luana, mas também tornava todo o processo mais eficiente e prático. A narrativa evidencia como a introdução de uma tecnologia inovadora pode redefinir um processo burocrático, atendendo às necessidades e frustrações dos usuários finais, e marcando uma nova era de eficiência no SIMPAC da Univiçosa.
 
 ## OMS - Análise das Partes Interessadas
 
@@ -141,62 +138,41 @@ Gabriel  Ribas.
 
 ### Elicitação de requisitos
 
-A Elicitação de requisitos foi realizada através de uma reunião com um cliente que junto com nossa equipe foram levantados os requisitos para resolver o atual problema da avalição do SIMPAC, estes requisitos foram documentados a nível de usuário, ou seja, a um nível de explicação mais simples que o próprio cliente consegue compreender.
+A Elicitação de requisitos foi realizada através de uma reunião com um cliente que junto com nossa equipe foram levantados os requisitos para resolver o atual problema da avalição do SIMPAC, 
+estes requisitos foram documentados a nível de usuário, ou seja, a um nível de explicação mais simples que o próprio cliente consegue compreender.
 
 - [Documento de requisitos a nível de usuário](Processos/Sprint_3/Requisitos_de_usuário.pdf)
 
-### Análise de requisitos
-#### Casos de Uso
-Usuários Principais
+## Análise de requisitos
+### Casos de Uso
+ <br> [Diagráma casos de uso](https://drive.google.com/file/d/1HSCV19wCrxr_p65Y4pJA0-9oUrmQJJSd/view?usp=sharing) <br>
 
-Admin: O administrador do sistema, que tem várias responsabilidades de gerenciamento.
+#### Usuários:
+- Admin: O administrador do sistema, que tem várias responsabilidades de gerenciamento.
+- Avaliador: A pessoa que realiza as avaliações dos trabalhos.
+- Usuários: Admin e Avaliadores.
 
-Avaliador: A pessoa que realiza as avaliações dos trabalhos.
+#### Funcionalidades do Sistema:
 
-Usuário: Qualquer pessoa que utiliza o sistema para ver resultados e outras informações.
+##### Login e Logout
+- Todos os usuários podem entrar e sair do sistema com segurança.
+##### Gerenciamento de Trabalhos
+- Os administradores podem criar, editar e organizar os trabalhos que precisam ser avaliados.
+##### Atribuição e gerenciamento de Avaliadores
+- Os administradores designam avaliadores específicos para cada trabalho.
+- Os administradores também gerenciam o cadastro e as informações dos avaliadores.
+##### Visualização de Trabalhos
+- Adminstradores podem ver todos trabalhos.
+- Avaliadores só podem vizualizar os trabalhos a quais foram designados.
+##### Realização de Avaliações
+- Os avaliadores realizam as avaliações dos trabalhos atribuídos a eles, seguindo critérios específicos.
+##### Visualização de Avaliações
+- Adminstradores podem ver as avaliações de todos trabalhos .
+- Avaliadores só podem vizualizar os trabalhos a quais foram designado.
+##### Visualização de Resultados
+- Adminstradores podem ver os resultados de trabalhos.
+- Avaliadores só podem vizualizar os trabalhos a quais foram designado.
 
-Funcionalidades do Sistema
-
-Login e Logout
-
-Todos os usuários podem entrar e sair do sistema com segurança.
-
-Gerenciamento de Trabalhos
-
-Os administradores podem criar, editar e organizar os trabalhos que precisam ser avaliados.
-
-Atribuição de Avaliadores
-
-Os administradores designam avaliadores específicos para cada trabalho.
-
-Gerenciamento de Avaliadores
-
-Os administradores também gerenciam o cadastro e as informações dos avaliadores.
-
-Visualização de Trabalhos
-
-Todos os usuários podem ver quais trabalhos estão disponíveis no sistema.
-
-Realização de Avaliações
-
-Os avaliadores realizam as avaliações dos trabalhos atribuídos a eles, seguindo critérios específicos.
-
-Visualização de Avaliações
-
-Os usuários podem ver as avaliações que foram feitas.
-
-Visualização de Resultados
-
-Os usuários podem ver os resultados finais das avaliações de cada trabalho.
-
-Como Tudo se Conecta
-
-O sistema é bem interligado. Algumas funcionalidades dependem de outras. Por exemplo, para realizar uma avaliação, é necessário que o trabalho já tenha sido gerenciado e um avaliador tenha sido atribuído. Assim, o fluxo de atividades é contínuo e organizado.
-
-Conclusão
-
-Este sistema é essencial para manter o processo de avaliação eficiente e organizado. Ele garante que os administradores possam gerenciar tudo de forma eficaz, que os avaliadores façam suas tarefas de maneira estruturada, e que todos os usuários tenham acesso fácil às informações de que precisam.
-[Diagráma casos de uso](https://drive.google.com/file/d/1HSCV19wCrxr_p65Y4pJA0-9oUrmQJJSd/view?usp=sharing) <br>
 #### Sequência
 [Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing) <br>
 #### Classes
@@ -204,8 +180,13 @@ Este sistema é essencial para manter o processo de avaliação eficiente e orga
 #### Colaboração
 [Diagráma de colaboração](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
 #### Estados
-Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: Administradores e Avaliadores: Login: Administradores e avaliadores usam o diagrama para entender o fluxo de login, incluindo o que acontece em caso de sucesso ou falha. Cadastro e Avaliação: O diagrama mostra claramente como os administradores cadastram novos projetos e como os avaliadores realizam suas avaliações, incluindo possíveis erros e suas correções .Usuários do Sistema: Visualização de Resultados: O diagrama ajuda os usuários a entender como podem acessar os resultados das avaliações de projetos, partindo do menu principal. Desenvolvimento e Manutenção: implementação: Os desenvolvedores seguem o diagrama para garantir que todos os estados e transições estão implementados corretamente. Atualizações: Em caso de atualizações ou manutenção do sistema, o diagrama ajuda a identificar rapidamente como novos estados ou transições devem ser adicionados ou modificados. O diagrama de estado é, portanto, uma ferramenta poderosa para visualizar, planejar, implementar e manter sistemas complexos, garantindo que todos os aspectos do comportamento do sistema sejam compreendidos e bem gerenciados.
 [Diagráma de estados](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
+##### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
+- Login: Administradores e avaliadores usam o diagrama para entender o fluxo de login, incluindo o que acontece em caso de sucesso ou falha. <br>
+- Cadastro e Avaliação: O diagrama mostra claramente como os administradores cadastram novos projetos e como os avaliadores realizam suas avaliações, incluindo possíveis erros e suas correções .
+- Usuários do Sistema: Visualização de Resultados: O diagrama ajuda os usuários a entender como podem acessar os resultados das avaliações de projetos, partindo do menu principal. 
+- Desenvolvimento e Manutenção: implementação: Os desenvolvedores seguem o diagrama para garantir que todos os estados e transições estão implementados corretamente. 
+- Atualizações: Em caso de atualizações ou manutenção do sistema, o diagrama ajuda a identificar rapidamente como novos estados ou transições devem ser adicionados ou modificados. O diagrama de estado é, portanto, uma ferramenta poderosa para visualizar, planejar, implementar e manter sistemas complexos, garantindo que todos os aspectos do comportamento do sistema sejam compreendidos e bem gerenciados.
 #### Atividades
 [Diagráma de atividades](https://drive.google.com/file/d/1QDAD4aZ3M_reVsbW9c4UJNqmsZpzd4px/view?usp=sharing) <br>
 
@@ -214,12 +195,10 @@ Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, 
 ### Fluxograma
 - Foi organizado um fluxograma para orgarnizar as informações, identificar ações que podem ser feitas para os objetivos da organização ou avaliador.
 
-![Fluxograma](./Processos/Sprint_4/Fluxograma%20SIMPAC.png)
+[Fluxograma](https://drive.google.com/file/d/1n8rzIqqmWy4uYPwh4GzWloxJ3DBx3u-o/view?usp=sharing)
 Figura 7 - Fluxo Grama do sitema
 
-ANEXAR AQUI (MODELOS FEITOS) ESII
-
-## Especificação de requisitos
+## Avaliação - Especificação de requisitos 
 Foi realizado o refinamento dos requisitos que compunham o nível de usuário para o nível de sistema para auxiliar os programadores na etapa de desenvolvimento do sistema.
 
 - [Documento de requisitos a nível de sistema](Processos/Sprint_3/Requisitos_do_Sistema_para_o_Projeto_SIMPAC.pdf)
@@ -227,14 +206,21 @@ Foi realizado o refinamento dos requisitos que compunham o nível de usuário pa
 ## Avaliação - Especificação de requisitos,
 ### Validação de requisitos com o cliente
 - Entramos em contato com a cliente por meio do aplicativo de mensagens WhatsApp para validar os requisitos de usuário e de sistema.
-- Os responsáveis pelo projeto apresentaram algumas dúvidas sobre o protótipo que não ficaram claras.
+- Os responsáveis pelo projeto apresentaram algumas dúvidas sobre os requisitos que não ficaram claras.
 - Anotamos as correções necessárias para realizar as alterações no protótipo.
-- A cliente assinou o Documento de Validação de Requisitos, contendo os requisitos de usuário e de sistema, validando assim os requisitos.
+- A cliente assinou o Documento de Validação de Requisitos, contendo os requisitos de usuário e de sistema, validando assim os requisitos. (Não houve nenhuma queixa da cliente sobre os requisitos já registrados)<br>
+[Documento de validação dos requisitos assinado pela responsável](https://drive.google.com/file/d/1k55bVL8fmbQikqs3sFH9G-W-cGIN8-WT/view?usp=sharing)
 
 ## Projeto conceitual e concepção do design
 ### Identidade visual
 
-#### Elementos Principais:
+<p align="center">
+  <img src="ID visual.png" alt="Identidade Visual" />
+  <br />
+  Figura XX
+</p>
+
+#### Tipografia:
 
 - Imagem 1: Representa o "Simpósio de Produção Acadêmica," destacando a interação e apresentação de trabalhos acadêmicos.
 
@@ -245,16 +231,6 @@ Logotipo:
 - Nome: Utilizado com a fonte específica da que estava no site da univicosa.
 
 - Símbolo: Inclui a edição do simpósio, representada pelo elemento "XV" no exemplo, que pode ser atualizado conforme necessário.
-
-
-
-<p align="center">
-  <img src="ID visual.png" alt="Identidade Visual" />
-  <br />
-  Figura XX
-</p>
-
-#### Tipografia:
 
 - A fonte utilizada é "League Spartan" em suas variações Bold e Regular.
 
