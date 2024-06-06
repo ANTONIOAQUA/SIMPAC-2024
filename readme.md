@@ -146,13 +146,67 @@ A Elicitação de requisitos foi realizada através de uma reunião com um clien
 - [Documento de requisitos a nível de usuário](Processos/Sprint_3/Requisitos_de_usuário.pdf)
 
 ### Análise de requisitos
+#### Casos de Uso
+Usuários Principais
 
-![Diagráma casos de uso](https://drive.google.com/file/d/1HSCV19wCrxr_p65Y4pJA0-9oUrmQJJSd/view?usp=sharing)
-![Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing)
-![Diagráma de classes](https://drive.google.com/file/d/1AuMt8c_RJhknCfidFCA7WQmffumdQa0K/view?usp=sharing)
-![Diagráma de colaboração](https://drive.google.com/file/d/15PgOX5Cf7wb9S20WSKuGeoj8pfGe3AGo/view?usp=sharing)
-![Diagráma de estados](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing)
-![Diagráma de atividade](https://drive.google.com/file/d/1QDAD4aZ3M_reVsbW9c4UJNqmsZpzd4px/view?usp=sharing)
+Admin: O administrador do sistema, que tem várias responsabilidades de gerenciamento.
+
+Avaliador: A pessoa que realiza as avaliações dos trabalhos.
+
+Usuário: Qualquer pessoa que utiliza o sistema para ver resultados e outras informações.
+
+Funcionalidades do Sistema
+
+Login e Logout
+
+Todos os usuários podem entrar e sair do sistema com segurança.
+
+Gerenciamento de Trabalhos
+
+Os administradores podem criar, editar e organizar os trabalhos que precisam ser avaliados.
+
+Atribuição de Avaliadores
+
+Os administradores designam avaliadores específicos para cada trabalho.
+
+Gerenciamento de Avaliadores
+
+Os administradores também gerenciam o cadastro e as informações dos avaliadores.
+
+Visualização de Trabalhos
+
+Todos os usuários podem ver quais trabalhos estão disponíveis no sistema.
+
+Realização de Avaliações
+
+Os avaliadores realizam as avaliações dos trabalhos atribuídos a eles, seguindo critérios específicos.
+
+Visualização de Avaliações
+
+Os usuários podem ver as avaliações que foram feitas.
+
+Visualização de Resultados
+
+Os usuários podem ver os resultados finais das avaliações de cada trabalho.
+
+Como Tudo se Conecta
+
+O sistema é bem interligado. Algumas funcionalidades dependem de outras. Por exemplo, para realizar uma avaliação, é necessário que o trabalho já tenha sido gerenciado e um avaliador tenha sido atribuído. Assim, o fluxo de atividades é contínuo e organizado.
+
+Conclusão
+
+Este sistema é essencial para manter o processo de avaliação eficiente e organizado. Ele garante que os administradores possam gerenciar tudo de forma eficaz, que os avaliadores façam suas tarefas de maneira estruturada, e que todos os usuários tenham acesso fácil às informações de que precisam.
+[Diagráma casos de uso](https://drive.google.com/file/d/1HSCV19wCrxr_p65Y4pJA0-9oUrmQJJSd/view?usp=sharing) <br>
+#### Sequência
+[Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing) <br>
+#### Classes
+[Diagráma de classes](https://drive.google.com/file/d/1AuMt8c_RJhknCfidFCA7WQmffumdQa0K/view?usp=sharing) <br>
+#### Colaboração
+[Diagráma de colaboração](https://drive.google.com/file/d/15PgOX5Cf7wb9S20WSKuGeoj8pfGe3AGo/view?usp=sharing) <br>
+#### Estados
+[Diagráma de estados](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
+#### Atividades
+[Diagráma de atividades](https://drive.google.com/file/d/1QDAD4aZ3M_reVsbW9c4UJNqmsZpzd4px/view?usp=sharing) <br>
 
 
 
