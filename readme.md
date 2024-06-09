@@ -322,9 +322,10 @@ A partir do fluxograma, foi criado então o wireframe, que é uma representaçã
 -  O Avaliador quando terminar suas avaliações lhe será mostrado uma tabela com informações de seus votos e caso o mesmo queira trocar ele terá a oportunidade.
 - Para os resultados, que serão disponíveis apenas à organização do evento, lhe será disposto um login e ao entrar, basta escolher o curso que deseja olhar no momento, e será mostrado uma tabela com as notas tanto em poster quanto apresentações orais.
 
-![Wireframe](./DIAGRAMAS/Wireframe-SIMPAC(1))
+![Wireframe](./DIAGRAMAS/Wireframe-SIMPAC(1).png)
 
-
+<details>
+<summary>Clique para expandir as imagens</summary>
 ### Versão de baixa fidelidade
 
 ![V.1 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1%20papel.jpg)
@@ -333,6 +334,8 @@ imagem XX
 imagem XX
 ![V.1-2 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1.2%20papel.jpg)
 imagem XX
+
+</details>
 
 Figura XX - WireFrame Final
 
