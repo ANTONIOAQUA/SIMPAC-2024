@@ -324,9 +324,10 @@ A partir do fluxograma, foi criado então o wireframe, que é uma representaçã
 
 ![Wireframe](./DIAGRAMAS/Wireframe-SIMPAC(1).png)
 
+### Versão de baixa fidelidade
 <details>
 <summary>Clique para expandir as imagens</summary>
-### Versão de baixa fidelidade
+
 
 ![V.1 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1%20papel.jpg)
 imagem XX
