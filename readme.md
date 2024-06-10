@@ -188,7 +188,56 @@ Figura 6 - Mapa e Empatia de Luana Pereira
 
 
 ## Avaliação - análise de tarefa usuários e função
-Gabriel  Ribas.
+
+#### 1. Identificação do Público-Alvo e Coleta de Requisitos:
+Iniciamos o processo identificando o público-alvo para o qual o mapa da empatia seria
+criado. Este público-alvo foi definido com base nas informações fornecidas pelo cliente.
+Realizamos reuniões e sessões de brainstorming para abstrair os requisitos principais. A
+partir dessas interações, conseguimos entender quem são os usuários finais e suas
+principais características.
+#### 2. Criação de Personagens Abstratos:
+Com base nos dados coletados, criamos personagens (ou personas) abstratos que
+representavam diferentes tipos de usuários. Cada personagem foi detalhado com
+informações demográficas, comportamentais e psicográficas para refletir os diversos
+perfis de usuários identificados. Esses personagens ajudaram a visualizar e empatizar
+melhor com os diferentes segmentos de usuários.
+3. Estruturação do Mapa da Empatia:
+O mapa da empatia foi dividido em seis seções principais, cada uma destinada a
+capturar um aspecto diferente da experiência dos personagens:
+- 1 O que vê?
+- 2 O que ouve?
+- 3 O que pensa e sente?
+- 4 O que fala e faz?
+- 5 Esforços (Dores)
+- 6 Resultados (Ganhos)
+Cada seção foi preenchida com base nas percepções e dados coletados durante a fase de
+requisitos.
+#### 4. Coleta de Dados para as Seções:
+Para preencher cada seção do mapa, utilizamos as seguintes abordagens:
+- O que vê?: Observamos os ambientes e cenários que os personagens
+frequentam.
+- O que ouve?: Registramos as influências externas e fontes de informação
+relevantes para os personagens.
+- O que pensa e sente?: Exploramos os pensamentos internos, preocupações e
+emoções mais profundas.
+- O que fala e faz?: Analisamos os comportamentos e comunicações dos
+personagens em situações típicas.
+- Esforços (Dores): Identificamos as principais frustrações e obstáculos
+enfrentados.
+- Resultados (Ganhos): Definimos os objetivos, desejos e necessidades dos
+personagens.
+#### 5. Análise e Refinamento:
+Após preencher as seções com informações detalhadas, analisamos o mapa da empatia
+em equipe. Discutimos os insights obtidos e refinamos os detalhes para garantir que
+todos os aspectos importantes fossem considerados. Esta análise permitiu identificar
+padrões e oportunidades para melhorar a experiência do usuário.
+#### 6. Aplicação dos Insights:
+Os insights obtidos a partir do mapa da empatia foram utilizados para guiar o
+desenvolvimento do produto/serviço. As informações foram aplicadas para criar
+soluções que atendem melhor às necessidades e expectativas dos usuários, resultando
+em um produto mais alinhado com os requisitos do cliente e satisfatório para os
+usuários finais.
+
 
 ---
 
