@@ -280,10 +280,50 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 
 ### Sequência
 - [Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing) <br>
+#### Desenvolvimento do Diagrama de Sequência
+- 1 Identificação dos Cenários de Uso: Com base nos requisitos do Sistema SIMPAC,
+identificamos os principais cenários de uso que necessitam de modelagem para
+compreender as interações entre os atores e o sistema. Os cenários principais incluem:
+- Criação de trabalho pelo administrador.
+- Avaliação de trabalho pelo avaliador.
+- 2 Definição dos Objetos e Atores: Para cada cenário, identificamos os objetos
+(entidades do sistema) e atores (usuários do sistema) que participam da interação. Por
+exemplo:
+- Administrador
+- Avaliador
+- Sistema SIMPAC (interface do sistema)
+- Banco de Dados
+- 3 Criação da Linha do Tempo: Desenhamos uma linha do tempo vertical para cada
+objeto e ator, representando sua existência durante o cenário de uso. Cada linha do
+tempo é chamada de "lifeline".
+- 4 Desenho das Mensagens: Representamos as interações entre os objetos e atores com
+mensagens, desenhando setas horizontais para mostrar o envio e a recepção de
+mensagens ao longo da linha do tempo. As mensagens podem ser chamadas de funções
+(síncronas) ou notificações (assíncronas).
+Exemplo de Cenário: Criação de Trabalho pelo Administrador
+- 1 O administrador faz login no Sistema SIMPAC.
+- 2 O administrador acessa a interface de criação de trabalho.
+- 3 O administrador preenche os detalhes do trabalho (resumo, protocolo, modelo
+avaliativo).
+- 4 O sistema gera um UUID único para o trabalho.
+- 5 O administrador seleciona avaliadores e salva o trabalho.
+- 6 O sistema armazena os detalhes do trabalho e as atribuições dos avaliadores no
+banco de dados.
+
 ### Classes
 - [Diagráma de classes](https://drive.google.com/file/d/1AuMt8c_RJhknCfidFCA7WQmffumdQa0K/view?usp=sharing) <br>
 ### Colaboração
 - [Diagráma de colaboração](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
+#### Desenvolvimento do Diagrama de Colaboração
+- 1 Identificação dos Objetos e Atores: Para os cenários de uso identificados, listamos
+os objetos e atores que colaboram para realizar a função. Cada objeto representa uma
+entidade ou componente do sistema.
+- 2 Definição das Interações: No diagrama de colaboração, focamos nas interações
+entre os objetos e atores. Representamos essas interações com mensagens numeradas
+para indicar a ordem de execução.
+- 3 Organização Espacial dos Objetos: Organizamos os objetos e atores no diagrama
+de forma a destacar suas interações e relações. As linhas que conectam os objetos
+representam as mensagens trocadas
 ### Estados
 - [Diagráma de estados](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
 ##### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
