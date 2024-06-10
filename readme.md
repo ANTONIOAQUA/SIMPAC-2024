@@ -278,13 +278,13 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 - Adminstradores podem ver os resultados de trabalhos.
 - Avaliadores só podem vizualizar os trabalhos a quais foram designado.
 
-#### Sequência
+### Sequência
 - [Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing) <br>
-#### Classes
+### Classes
 - [Diagráma de classes](https://drive.google.com/file/d/1AuMt8c_RJhknCfidFCA7WQmffumdQa0K/view?usp=sharing) <br>
-#### Colaboração
+### Colaboração
 - [Diagráma de colaboração](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
-#### Estados
+### Estados
 - [Diagráma de estados](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
 ##### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
 - Login: Administradores e avaliadores usam o diagrama para entender o fluxo de login, incluindo o que acontece em caso de sucesso ou falha. <br>
@@ -292,7 +292,7 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 - Usuários do Sistema: Visualização de Resultados: O diagrama ajuda os usuários a entender como podem acessar os resultados das avaliações de projetos, partindo do menu principal. 
 - Desenvolvimento e Manutenção: implementação: Os desenvolvedores seguem o diagrama para garantir que todos os estados e transições estão implementados corretamente. 
 - Atualizações: Em caso de atualizações ou manutenção do sistema, o diagrama ajuda a identificar rapidamente como novos estados ou transições devem ser adicionados ou modificados. O diagrama de estado é, portanto, uma ferramenta poderosa para visualizar, planejar, implementar e manter sistemas complexos, garantindo que todos os aspectos do comportamento do sistema sejam compreendidos e bem gerenciados.
-#### Atividades
+### Atividades
 - [Diagráma de atividades](https://drive.google.com/file/d/1QDAD4aZ3M_reVsbW9c4UJNqmsZpzd4px/view?usp=sharing) <br>
 
 
