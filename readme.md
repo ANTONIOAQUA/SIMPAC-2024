@@ -201,7 +201,7 @@ representavam diferentes tipos de usuários. Cada personagem foi detalhado com
 informações demográficas, comportamentais e psicográficas para refletir os diversos
 perfis de usuários identificados. Esses personagens ajudaram a visualizar e empatizar
 melhor com os diferentes segmentos de usuários.
-3. Estruturação do Mapa da Empatia:
+#### 3. Estruturação do Mapa da Empatia:
 O mapa da empatia foi dividido em seis seções principais, cada uma destinada a
 capturar um aspecto diferente da experiência dos personagens:
 - 1 O que vê?
