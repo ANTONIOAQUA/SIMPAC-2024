@@ -250,6 +250,11 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 
 - [Documento de requisitos a nível de usuário](Processos/Sprint_3/Requisitos_de_usuário.pdf)
 
+
+
+
+
+
 ## Análise de requisitos
 ### Casos de Uso
 - [Diagráma casos de uso](https://drive.google.com/file/d/1HSCV19wCrxr_p65Y4pJA0-9oUrmQJJSd/view?usp=sharing) <br>
@@ -277,6 +282,10 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 ##### Visualização de Resultados
 - Adminstradores podem ver os resultados de trabalhos.
 - Avaliadores só podem vizualizar os trabalhos a quais foram designado.
+
+
+
+
 
 ### Sequência
 - [Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing) <br>
@@ -310,11 +319,41 @@ avaliativo).
 - 6 O sistema armazena os detalhes do trabalho e as atribuições dos avaliadores no
 banco de dados.
 
+
+
+
 ### Classes
+#### Introdução ao Diagrama de Classe
+No diagrama, observamos diversas classes que representam diferentes entidades do sistema, como usuários, administradores, avaliadores e os próprios trabalhos. Cada classe contém atributos e métodos que definem as suas propriedades e comportamentos.
+
 - [Diagráma de classes](https://drive.google.com/file/d/1AuMt8c_RJhknCfidFCA7WQmffumdQa0K/view?usp=sharing) <br>
+
+#### Descrição das Classes:
+##### Usuário:
+- Atributos: UUID, Nome, Sobrenome, Email, Senha.
+- Métodos: Login, Logout, Avaliar.
+- Representa um usuário genérico no sistema que pode realizar login, logout e potencialmente avaliar trabalhos.
+##### Admin:
+- Atributos: Data Nascimento, ListaTrabalho.
+- Métodos: PreencherTrabalho, SelecionarAvaliadores, InserirTrabalho, GerenciarAvaliadores, VisualizarResultados.
+- Subclasse de Usuário com privilégios especiais para gerenciar trabalhos e avaliadores.
+##### Avaliador:
+- Atributos: Lista Trabalhos Atribuídos.
+- Métodos: AcessarTrabalho, AvaliarTrabalho.
+- Subclasse de Usuário focada na avaliação dos trabalhos atribuídos.
+#### Trabalho:
+- Atributos: UUID, Resumo, Protocolo, Modelo Avaliativo, Lista Avaliadores, Resumo.
+- Métodos: Criar, Editar, AtribuirAvaliador.
+- Representa os trabalhos submetidos no sistema, com funcionalidades para criação e edição.
+#### Sistema:
+- Atributos: Lista Admin, Lista Avaliadores, Lista Trabalhos.
+- Métodos: AutenticarUsuario, EnviarNotificação, GerarRelatório.
+- Classe que representa o sistema como um todo, lidando com autenticação e comunicação entre usuários e trabalhos.
+
+  
 ### Colaboração
 - [Diagráma de colaboração](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
-#### Desenvolvimento do Diagrama de Colaboração
+#### Descrição do diagrama Colaboração
 - 1 Identificação dos Objetos e Atores: Para os cenários de uso identificados, listamos
 os objetos e atores que colaboram para realizar a função. Cada objeto representa uma
 entidade ou componente do sistema.
@@ -324,6 +363,22 @@ para indicar a ordem de execução.
 - 3 Organização Espacial dos Objetos: Organizamos os objetos e atores no diagrama
 de forma a destacar suas interações e relações. As linhas que conectam os objetos
 representam as mensagens trocadas
+#### Avaliador:
+- Atributos: Lista Trabalhos Atribuídos.
+- Métodos: AcessarTrabalho, AvaliarTrabalho.
+- Subclasse de Usuário focada na avaliação dos trabalhos atribuídos.
+##### Trabalho:
+- Atributos: UUID, Resumo, Protocolo, Modelo Avaliativo, Lista Avaliadores, Resumo.
+- Métodos: Criar, Editar, AtribuirAvaliador.
+- Representa os trabalhos submetidos no sistema, com funcionalidades para criação e edição.
+##### Sistema:
+- Atributos: Lista Admin, Lista Avaliadores, Lista Trabalhos.
+- Métodos: AutenticarUsuario, EnviarNotificação, GerarRelatório.
+- Classe que representa o sistema como um todo, lidando com autenticação e comunicação entre usuários e trabalhos.
+
+
+
+
 ### Estados
 - [Diagráma de estados](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
 ##### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
@@ -332,6 +387,10 @@ representam as mensagens trocadas
 - Usuários do Sistema: Visualização de Resultados: O diagrama ajuda os usuários a entender como podem acessar os resultados das avaliações de projetos, partindo do menu principal. 
 - Desenvolvimento e Manutenção: implementação: Os desenvolvedores seguem o diagrama para garantir que todos os estados e transições estão implementados corretamente. 
 - Atualizações: Em caso de atualizações ou manutenção do sistema, o diagrama ajuda a identificar rapidamente como novos estados ou transições devem ser adicionados ou modificados. O diagrama de estado é, portanto, uma ferramenta poderosa para visualizar, planejar, implementar e manter sistemas complexos, garantindo que todos os aspectos do comportamento do sistema sejam compreendidos e bem gerenciados.
+
+
+
+
 ### Atividades
 - [Diagráma de atividades](https://drive.google.com/file/d/1QDAD4aZ3M_reVsbW9c4UJNqmsZpzd4px/view?usp=sharing) <br>
 
