@@ -256,8 +256,8 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 
 
 ## Análise de requisitos
-### Casos de Uso
-#### Introdução casos de uso
+## Casos de Uso
+### Introdução casos de uso
 Um caso de uso é um método da engenharia de software que representa as interações entre um sistema e seus atores, descrevendo as ações que cada ator (usuário) pode realizar no sistema. Ele inclui os conceitos de include, onde um caso de uso pode incluir outro caso de uso para representar uma funcionalidade compartilhada, e extend, onde um caso de uso pode opcionalmente adicionar funcionalidade a outro caso de uso.
 - [Diagráma casos de uso](https://drive.google.com/file/d/1HSCV19wCrxr_p65Y4pJA0-9oUrmQJJSd/view?usp=sharing) <br>
 
@@ -266,22 +266,22 @@ Um caso de uso é um método da engenharia de software que representa as intera�
 - Avaliador: A pessoa que realiza as avaliações dos trabalhos.
 - Usuários: Admin e Avaliadores.
 #### Funcionalidades do Sistema:
-##### Login e Logout
+#### Login e Logout
 - Todos os usuários podem entrar e sair do sistema com segurança.
-##### Gerenciamento de Trabalhos
+#### Gerenciamento de Trabalhos
 - Os administradores podem criar, editar e organizar os trabalhos que precisam ser avaliados.
-##### Atribuição e gerenciamento de Avaliadores
+#### Atribuição e gerenciamento de Avaliadores
 - Os administradores designam avaliadores específicos para cada trabalho.
 - Os administradores também gerenciam o cadastro e as informações dos avaliadores.
-##### Visualização de Trabalhos
+#### Visualização de Trabalhos
 - Adminstradores podem ver todos trabalhos.
 - Avaliadores só podem vizualizar os trabalhos a quais foram designados.
-##### Realização de Avaliações
+#### Realização de Avaliações
 - Os avaliadores realizam as avaliações dos trabalhos atribuídos a eles, seguindo critérios específicos.
-##### Visualização de Avaliações
+#### Visualização de Avaliações
 - Adminstradores podem ver as avaliações de todos trabalhos .
 - Avaliadores só podem vizualizar os trabalhos a quais foram designado.
-##### Visualização de Resultados
+#### Visualização de Resultados
 - Adminstradores podem ver os resultados de trabalhos.
 - Avaliadores só podem vizualizar os trabalhos a quais foram designado.
 
@@ -289,53 +289,53 @@ Um caso de uso é um método da engenharia de software que representa as intera�
 
 
 
-### Sequência
+## Sequência
 - [Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing) <br>
 
 
 
 
-### Classes
-#### Introdução ao Diagrama de Classe
+## Classes
+### Introdução ao Diagrama de Classe
 No diagrama, observamos diversas classes que representam diferentes entidades do sistema, como usuários, administradores, avaliadores e os próprios trabalhos. Cada classe contém atributos e métodos que definem as suas propriedades e comportamentos.
 
 - [Diagráma de classes](https://drive.google.com/file/d/1AuMt8c_RJhknCfidFCA7WQmffumdQa0K/view?usp=sharing) <br>
 
-#### Descrição das Classes:
-##### Usuário:
+### Descrição das Classes:
+#### Usuário:
 - Atributos: UUID, Nome, Sobrenome, Email, Senha.
 - Métodos: Login, Logout, Avaliar.
 - Representa um usuário genérico no sistema que pode realizar login, logout e potencialmente avaliar trabalhos.
-##### Admin:
+#### Admin:
 - Atributos: Data Nascimento, ListaTrabalho.
 - Métodos: PreencherTrabalho, SelecionarAvaliadores, InserirTrabalho, GerenciarAvaliadores, VisualizarResultados.
 - Subclasse de Usuário com privilégios especiais para gerenciar trabalhos e avaliadores.
-##### Avaliador:
+#### Avaliador:
 - Atributos: Lista Trabalhos Atribuídos.
 - Métodos: AcessarTrabalho, AvaliarTrabalho.
 - Subclasse de Usuário focada na avaliação dos trabalhos atribuídos.
-##### Trabalho:
+#### Trabalho:
 - Atributos: UUID, Resumo, Protocolo, Modelo Avaliativo, Lista Avaliadores, Resumo.
 - Métodos: Criar, Editar, AtribuirAvaliador.
 - Representa os trabalhos submetidos no sistema, com funcionalidades para criação e edição.
-##### Sistema:
+#### Sistema:
 - Atributos: Lista Admin, Lista Avaliadores, Lista Trabalhos.
 - Métodos: AutenticarUsuario, EnviarNotificação, GerarRelatório.
 - Classe que representa o sistema como um todo, lidando com autenticação e comunicação entre usuários e trabalhos.
 
   
-### Colaboração
+## Colaboração
 - [Diagráma de colaboração](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
-#### Descrição do diagrama Colaboração
-##### Avaliador:
+### Descrição do diagrama Colaboração
+#### Avaliador:
 - Atributos: Lista Trabalhos Atribuídos.
 - Métodos: AcessarTrabalho, AvaliarTrabalho.
 - Subclasse de Usuário focada na avaliação dos trabalhos atribuídos.
-##### Trabalho:
+#### Trabalho:
 - Atributos: UUID, Resumo, Protocolo, Modelo Avaliativo, Lista Avaliadores, Resumo.
 - Métodos: Criar, Editar, AtribuirAvaliador.
 - Representa os trabalhos submetidos no sistema, com funcionalidades para criação e edição.
-##### Sistema:
+#### Sistema:
 - Atributos: Lista Admin, Lista Avaliadores, Lista Trabalhos.
 - Métodos: AutenticarUsuario, EnviarNotificação, GerarRelatório.
 - Classe que representa o sistema como um todo, lidando com autenticação e comunicação entre usuários e trabalhos.
@@ -343,11 +343,11 @@ No diagrama, observamos diversas classes que representam diferentes entidades do
 
 
 
-### Estados
-#### Introdução diagrama de estado
+## Estados
+### Introdução diagrama de estado
 Um diagrama de estado é uma representação visual que mostra todas as possíveis situações em que um objeto ou entidade específica pode estar e como ela muda de uma situação para outra em resposta a eventos externos ou condições internas.
 - [Diagráma de estados](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
-##### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
+#### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
 - Login: Administradores e avaliadores usam o diagrama para entender o fluxo de login, incluindo o que acontece em caso de sucesso ou falha. <br>
 - Cadastro e Avaliação: O diagrama mostra claramente como os administradores cadastram novos projetos e como os avaliadores realizam suas avaliações, incluindo possíveis erros e suas correções .
 - Usuários do Sistema: Visualização de Resultados: O diagrama ajuda os usuários a entender como podem acessar os resultados das avaliações de projetos, partindo do menu principal. 
@@ -357,8 +357,8 @@ Um diagrama de estado é uma representação visual que mostra todas as possíve
 
 
 
-### Atividade
-#### Introdução aos diagramas de atividade
+## Atividade
+### Introdução aos diagramas de atividade
 Os diagramas de atividades são ferramentas essenciais em projetos de software e de negócios, utilizadas para modelar e visualizar processos e fluxos de trabalho. Utilizando a notação da UML (Unified Modeling Language), esses diagramas descrevem a sequência de atividades ou ações que compõem um processo, incluindo decisões, bifurcações e paralelismos. Eles trazem clareza e compreensão dos processos, fornecem documentação detalhada, permitem a análise e melhoria dos processos existentes e servem como base para a automação de processos complexos.
 - [Diagráma de atividades](https://drive.google.com/file/d/1QDAD4aZ3M_reVsbW9c4UJNqmsZpzd4px/view?usp=sharing) <br>
 No projeto em questão, foram utilizados diversos diagramas de atividades para diferentes processos.
@@ -392,7 +392,7 @@ Esses diagramas ajudam a garantir que os processos sejam claros, compreensíveis
 
 
 
-### Fluxograma
+## Fluxograma
 - Foi organizado um fluxograma para orgarnizar as informações, identificar ações que podem ser feitas para os objetivos da organização ou avaliador.
 
 [Fluxograma](https://drive.google.com/file/d/1n8rzIqqmWy4uYPwh4GzWloxJ3DBx3u-o/view?usp=sharing)
