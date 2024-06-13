@@ -291,35 +291,6 @@ Um caso de uso é um método da engenharia de software que representa as intera�
 
 ### Sequência
 - [Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing) <br>
-#### Desenvolvimento do Diagrama de Sequência
-- 1 Identificação dos Cenários de Uso: Com base nos requisitos do Sistema SIMPAC,
-identificamos os principais cenários de uso que necessitam de modelagem para
-compreender as interações entre os atores e o sistema. Os cenários principais incluem:
-- Criação de trabalho pelo administrador.
-- Avaliação de trabalho pelo avaliador.
-- 2 Definição dos Objetos e Atores: Para cada cenário, identificamos os objetos
-(entidades do sistema) e atores (usuários do sistema) que participam da interação. Por
-exemplo:
-- Administrador
-- Avaliador
-- Sistema SIMPAC (interface do sistema)
-- Banco de Dados
-- 3 Criação da Linha do Tempo: Desenhamos uma linha do tempo vertical para cada
-objeto e ator, representando sua existência durante o cenário de uso. Cada linha do
-tempo é chamada de "lifeline".
-- 4 Desenho das Mensagens: Representamos as interações entre os objetos e atores com
-mensagens, desenhando setas horizontais para mostrar o envio e a recepção de
-mensagens ao longo da linha do tempo. As mensagens podem ser chamadas de funções
-(síncronas) ou notificações (assíncronas).
-Exemplo de Cenário: Criação de Trabalho pelo Administrador
-- 1 O administrador faz login no Sistema SIMPAC.
-- 2 O administrador acessa a interface de criação de trabalho.
-- 3 O administrador preenche os detalhes do trabalho (resumo, protocolo, modelo
-avaliativo).
-- 4 O sistema gera um UUID único para o trabalho.
-- 5 O administrador seleciona avaliadores e salva o trabalho.
-- 6 O sistema armazena os detalhes do trabalho e as atribuições dos avaliadores no
-banco de dados.
 
 
 
@@ -343,11 +314,11 @@ No diagrama, observamos diversas classes que representam diferentes entidades do
 - Atributos: Lista Trabalhos Atribuídos.
 - Métodos: AcessarTrabalho, AvaliarTrabalho.
 - Subclasse de Usuário focada na avaliação dos trabalhos atribuídos.
-#### Trabalho:
+##### Trabalho:
 - Atributos: UUID, Resumo, Protocolo, Modelo Avaliativo, Lista Avaliadores, Resumo.
 - Métodos: Criar, Editar, AtribuirAvaliador.
 - Representa os trabalhos submetidos no sistema, com funcionalidades para criação e edição.
-#### Sistema:
+##### Sistema:
 - Atributos: Lista Admin, Lista Avaliadores, Lista Trabalhos.
 - Métodos: AutenticarUsuario, EnviarNotificação, GerarRelatório.
 - Classe que representa o sistema como um todo, lidando com autenticação e comunicação entre usuários e trabalhos.
@@ -356,16 +327,7 @@ No diagrama, observamos diversas classes que representam diferentes entidades do
 ### Colaboração
 - [Diagráma de colaboração](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
 #### Descrição do diagrama Colaboração
-- 1 Identificação dos Objetos e Atores: Para os cenários de uso identificados, listamos
-os objetos e atores que colaboram para realizar a função. Cada objeto representa uma
-entidade ou componente do sistema.
-- 2 Definição das Interações: No diagrama de colaboração, focamos nas interações
-entre os objetos e atores. Representamos essas interações com mensagens numeradas
-para indicar a ordem de execução.
-- 3 Organização Espacial dos Objetos: Organizamos os objetos e atores no diagrama
-de forma a destacar suas interações e relações. As linhas que conectam os objetos
-representam as mensagens trocadas
-#### Avaliador:
+##### Avaliador:
 - Atributos: Lista Trabalhos Atribuídos.
 - Métodos: AcessarTrabalho, AvaliarTrabalho.
 - Subclasse de Usuário focada na avaliação dos trabalhos atribuídos.
@@ -395,8 +357,38 @@ Um diagrama de estado é uma representação visual que mostra todas as possíve
 
 
 
-### Atividades
+### Atividade
+#### Introdução aos diagramas de atividade
+Os diagramas de atividades são ferramentas essenciais em projetos de software e de negócios, utilizadas para modelar e visualizar processos e fluxos de trabalho. Utilizando a notação da UML (Unified Modeling Language), esses diagramas descrevem a sequência de atividades ou ações que compõem um processo, incluindo decisões, bifurcações e paralelismos. Eles trazem clareza e compreensão dos processos, fornecem documentação detalhada, permitem a análise e melhoria dos processos existentes e servem como base para a automação de processos complexos.
 - [Diagráma de atividades](https://drive.google.com/file/d/1QDAD4aZ3M_reVsbW9c4UJNqmsZpzd4px/view?usp=sharing) <br>
+No projeto em questão, foram utilizados diversos diagramas de atividades para diferentes processos.
+
+### Diagrama de logout
+Modela o processo de um usuário se desconectando do sistema, começando com a escolha da opção de "Sair", passando pela confirmação do logout, encerramento da sessão e redirecionamento para a página de login. Isso garante que o processo de logout seja executado corretamente, assegurando a segurança e usabilidade do sistema.
+
+### Diagrama de login 
+Descreve o processo de entrada no sistema, desde o acesso à página de login, a inserção e validação das credenciais, até a concessão de acesso aos recursos disponíveis. Ele também inclui um fluxo alternativo para a recuperação de senha, caso o usuário a esqueça. Este diagrama melhora a usabilidade e a segurança do sistema, detalhando claramente o processo de autenticação do usuário.
+
+### Diagrama Visualização dos resultados do simpósio
+Modela como o administrador visualiza os resultados, permitindo a filtragem por curso e apresentando os resultados em uma tabela organizada por tipo de apresentação. Isso assegura que o processo de visualização dos resultados seja eficiente e compreensível, proporcionando uma maneira clara de acessar as informações.
+
+### Diagrama atribuição de avaliadores 
+Descreve o processo de atribuir avaliadores a um trabalho específico, começando com a solicitação do administrador, a apresentação de uma lista de avaliadores disponíveis, a seleção e associação dos avaliadores ao trabalho, e a confirmação da atribuição. Ele também inclui fluxos alternativos para lidar com a indisponibilidade de avaliadores ou a decisão de cancelar a atribuição. Este diagrama garante que o processo de atribuição seja compreendido e executado corretamente.
+
+### Diagrama de avaliação de trabalhos
+Descreve como um avaliador revisa um trabalho atribuído, atribui uma nota, fornece comentários adicionais e registra a avaliação. Ele também permite que o avaliador interrompa e retome a avaliação posteriormente. Este diagrama assegura que o processo de avaliação seja realizado de forma organizada e eficiente.
+
+### Diagrama de gerenciamento de avaliadores 
+Detalha o processo pelo qual o administrador gerencia os avaliadores, começando com a solicitação de gerenciamento, a apresentação das opções de visualizar, excluir ou cadastrar novos avaliadores, a escolha de uma dessas opções e o preenchimento das informações necessárias para o cadastro de um novo avaliador. Ele inclui um fluxo alternativo para lidar com avaliadores já cadastrados ou informações incorretas, retornando ao fluxo principal. Este diagrama assegura que o processo de gerenciamento de avaliadores seja claro e eficiente.
+
+### Diagrama Visualização de trabalhos 
+Descreve como o administrador visualiza os trabalhos, começando com a solicitação de visualização, a listagem dos trabalhos pelo sistema, a exibição dos detalhes dos trabalhos e a navegação pela lista de trabalhos para acessar todas as informações disponíveis. Ele inclui um fluxo alternativo para o caso do administrador cancelar a visualização, retornando ao menu. Este diagrama assegura que o processo de visualização dos trabalhos seja eficiente e compreensível.
+
+### Diagrama gerenciamento de trabalhos 
+Modela o processo pelo qual o administrador gerencia os trabalhos, começando com a solicitação de gerenciamento, a apresentação das opções de criar um novo trabalho ou visualizar os trabalhos existentes, a escolha de uma dessas opções e o preenchimento das informações necessárias para o cadastro de um novo trabalho. Ele inclui um fluxo alternativo para lidar com problemas na validação dos dados do novo trabalho ou durante a edição de um trabalho existente, notificando o administrador sobre os erros encontrados e solicitando as correções necessárias. Este diagrama assegura que o processo de gerenciamento de trabalhos seja claro e eficiente.
+
+### Objetivo:
+Esses diagramas ajudam a garantir que os processos sejam claros, compreensíveis e corretamente executados, melhorando a eficiência, segurança e usabilidade do sistema.
 
 
 
