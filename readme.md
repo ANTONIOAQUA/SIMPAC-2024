@@ -405,10 +405,16 @@ Foi realizado o refinamento dos requisitos de nível de usuário para o nível d
 
 ## Avaliação - Especificação de requisitos
 ### Validação de requisitos com o cliente
-- Entramos em contato com a cliente por meio do aplicativo de mensagens WhatsApp para validar os requisitos de usuário e de sistema.
-- Os responsáveis pelo projeto apresentaram algumas dúvidas sobre os requisitos que não ficaram claras.
+- Foi feita uma reunião com o cliente a fim de validar os requisitos de usuário e sistema
+- O responsável pelo projeto vizualizou a falta de alguns requisitos em algumas funcionalidades.
+    - Cadastrar trabalhos: Falta de um atributo para os trabalhos do SIMPAC sendo eles para selecionar uma opção entre as três: trabalho de ensino, pesquisa, extensão.
+    - Avaliação de trabalhos: Ao final da avaliação o avaliador deve definir se o trabalho é poster ou oral.
+    - O sistema de avalição sofreu uma alteração em que as notas passaram a ser fracionadas de 1 a 10. 
+- Além disso o cliente sinalizou a preferencia de um requisito não funcional:
+    - Após um finalizar a avaliação de um trabalho o trabalho avalido fica em verde na lista de trabalhos.
 - Anotamos as correções necessárias para realizar as alterações no protótipo.
-- A cliente assinou o Documento de Validação de Requisitos, contendo os requisitos de usuário e de sistema, validando assim os requisitos. (Não houve nenhuma queixa da cliente sobre os requisitos já registrados)<br>
+- Uma segunda reunião foi feita e o cliente utilizou novamente o protótipo, onde mais nenhuma queixa foi feita.
+- A cliente assinou o Documento de Validação de Requisitos, contendo os requisitos de usuário e de sistema, validando assim os requisitos. <br>
 [Documento de validação dos requisitos assinado pela responsável](https://drive.google.com/file/d/1k55bVL8fmbQikqs3sFH9G-W-cGIN8-WT/view?usp=sharing)
 
 ## Projeto conceitual e concepção do design
