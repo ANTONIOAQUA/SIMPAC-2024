@@ -259,7 +259,7 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 ## Casos de Uso
 ### Introdução casos de uso
 Um caso de uso é um método da engenharia de software que representa as interações entre um sistema e seus atores, descrevendo as ações que cada ator (usuário) pode realizar no sistema. Ele inclui os conceitos de include, onde um caso de uso pode incluir outro caso de uso para representar uma funcionalidade compartilhada, e extend, onde um caso de uso pode opcionalmente adicionar funcionalidade a outro caso de uso.
-- [Diagráma casos de uso](https://drive.google.com/file/d/1HSCV19wCrxr_p65Y4pJA0-9oUrmQJJSd/view?usp=sharing) <br>
+- [Diagráma casos de uso](https://drive.google.com/file/d/1yVZspcJCOXUUYTCCWBUkr8FXfLzX_vi6/view?usp=sharing) <br>
 
 #### Usuários:
 - Admin: O administrador do sistema, que tem várias responsabilidades de gerenciamento.
