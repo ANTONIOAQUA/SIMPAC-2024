@@ -413,7 +413,7 @@ Foi realizado o refinamento dos requisitos de nível de usuário para o nível d
 - Além disso o cliente sinalizou a preferencia de um requisito não funcional:
     - Após um finalizar a avaliação de um trabalho o trabalho avalido fica em verde na lista de trabalhos.
 - Anotamos as correções necessárias para realizar as alterações no protótipo.
-- Uma segunda reunião foi feita e o cliente utilizou novamente o protótipo, onde mais nenhuma queixa foi feita.
+- Todas as alterações necessárias foram feitas.
 - A cliente assinou o Documento de Validação de Requisitos, contendo os requisitos de usuário e de sistema, validando assim os requisitos. <br>
 [Documento de validação dos requisitos assinado pela responsável](https://drive.google.com/file/d/1k55bVL8fmbQikqs3sFH9G-W-cGIN8-WT/view?usp=sharing)
 
@@ -500,7 +500,9 @@ O Figma foi utilizado como ferramenta de prototipação desenolvendo assim o pro
 - [Protótipo_Desktop](https://www.figma.com/proto/bKh50EThTPfSIAmffkghy4/Untitled?type=design&node-id=0-3&t=LEdIqh2ObP9xoNPn-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=0%3A3&mode=design)
 
 ## Avaliação do protótipo
-[AINDA NÃO FEITO]
+- Uma segunda reunião foi feita com o cliente afim de validar o protipo (seu design e garantir as funcionalidades).
+- O cliente utilizou o protótipo atualizado e validou o prototipo.
+-  xxx avalição do prototipo 
 # Processo contínuo
 
 - [Vídeo explicativo sobre o protótipo]
