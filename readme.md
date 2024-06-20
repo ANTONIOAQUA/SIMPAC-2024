@@ -507,9 +507,11 @@ O Figma foi utilizado como ferramenta de prototipação desenolvendo assim o pro
 
 - [Vídeo explicativo sobre o protótipo]
 - Sera realizado um Pitch do projeto ao cliente, especialistas e investidores, frisar novamente todas as funcionalidades do protótipo e mostrar o sitema (protótipo), e como iria auxilar as partes interessadas (avaliadores e avaliados no SIMPAC) a solucinar os problemas relacionados a falta de informatização no processo de avaliação de projetos do SIMPAC-UNIVIÇOSA;
-
-# Implementação
+# Projetos Futuros
+## Implementação
 O projeto atual está sendo desenvolvido com base nas matérias de Interação Humano Computador e Engenharia de Software II, a implementação do trabalho em questão será feita no próximo semestre na matéria de Arquitetura de Software e Projeto Integrador.
+## Modificações
+Os dados a serem cadastrados serão importados de de outro sistema, podendo assim utilizar o arquivo do banco de dados do outro sistema e subir esse arquivo no sistema Evoluir TI.
 
 ### Esse projeto foi desenvolvido por:
 
