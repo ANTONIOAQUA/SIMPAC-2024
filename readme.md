@@ -259,7 +259,7 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 ## Casos de Uso
 ### Introdução casos de uso
 Um caso de uso é um método da engenharia de software que representa as interações entre um sistema e seus atores, descrevendo as ações que cada ator (usuário) pode realizar no sistema. Ele inclui os conceitos de include, onde um caso de uso pode incluir outro caso de uso para representar uma funcionalidade compartilhada, e extend, onde um caso de uso pode opcionalmente adicionar funcionalidade a outro caso de uso.
-- [Diagráma casos de uso]([casos de uso .pdf]![Captura de tela 2024-06-20 201006](https://github.com/ANTONIOAQUA/SIMPAC-2024/assets/131566467/1d4f1a32-4db6-4494-8ae0-246f732b40f8)
+- [Diagráma casos de uso]([Captura de tela 2024-06-20 201006](https://github.com/ANTONIOAQUA/SIMPAC-2024/assets/131566467/1d4f1a32-4db6-4494-8ae0-246f732b40f8)
 (https://github.com/user-attachments/files/15921391/casos.de.uso.pdf)
 ) <br>
 
