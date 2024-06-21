@@ -259,7 +259,8 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 ## Casos de Uso
 ### Introdução casos de uso
 Um caso de uso é um método da engenharia de software que representa as interações entre um sistema e seus atores, descrevendo as ações que cada ator (usuário) pode realizar no sistema. Ele inclui os conceitos de include, onde um caso de uso pode incluir outro caso de uso para representar uma funcionalidade compartilhada, e extend, onde um caso de uso pode opcionalmente adicionar funcionalidade a outro caso de uso.
-- [Diagráma casos de uso](https://drive.google.com/file/d/1yVZspcJCOXUUYTCCWBUkr8FXfLzX_vi6/view?usp=sharing) <br>
+- [Diagráma casos de uso]([casos de uso .pdf](https://github.com/user-attachments/files/15921391/casos.de.uso.pdf)
+) <br>
 
 #### Usuários:
 - Admin: O administrador do sistema, que tem várias responsabilidades de gerenciamento.
@@ -346,7 +347,7 @@ No diagrama, observamos diversas classes que representam diferentes entidades do
 ## Estados
 ### Introdução diagrama de estado
 Um diagrama de estado é uma representação visual que mostra todas as possíveis situações em que um objeto ou entidade específica pode estar e como ela muda de uma situação para outra em resposta a eventos externos ou condições internas.
-- [Diagráma de estados]![BLJ1YX~1](https://github.com/ANTONIOAQUA/SIMPAC-2024/assets/131566467/64d25dc1-d46a-4e98-af80-e7d6b85c7414)
+- [Diagráma de estado]![BLJ1YX~1](https://github.com/ANTONIOAQUA/SIMPAC-2024/assets/131566467/64d25dc1-d46a-4e98-af80-e7d6b85c7414)
  <br>
 #### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
 - Login: Administradores e avaliadores usam o diagrama para entender o fluxo de login, incluindo o que acontece em caso de sucesso ou falha. <br>
