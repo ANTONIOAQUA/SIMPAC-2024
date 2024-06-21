@@ -499,19 +499,22 @@ O Figma foi utilizado como ferramenta de prototipação desenolvendo assim o pro
 - [Protótipo_Mobile](https://www.figma.com/proto/yDMbtaIZQP5urNRLNSLaIW/SIMPAC-por-Vinicius?type=design&node-id=1-4&t=I9H7ZyO9Fwrh1jV3-1&scaling=scale-down&page-id=32%3A289&starting-point-node-id=1%3A4&show-proto-sidebar=1&mode=design)
 - [Protótipo_Desktop](https://www.figma.com/proto/bKh50EThTPfSIAmffkghy4/Untitled?type=design&node-id=0-3&t=LEdIqh2ObP9xoNPn-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=0%3A3&mode=design)
 
-## Avaliação do protótipo
+# Avaliação do protótipo
 - Uma segunda reunião foi feita com o cliente afim de validar o protipo (seu design e garantir as funcionalidades).
 - O cliente utilizou o protótipo atualizado e validou o prototipo.
--  xxx avalição do prototipo 
+-  xxx avalição do prototipo
 # Processo contínuo
 
 - [Vídeo explicativo sobre o protótipo]
 - Sera realizado um Pitch do projeto ao cliente, especialistas e investidores, frisar novamente todas as funcionalidades do protótipo e mostrar o sitema (protótipo), e como iria auxilar as partes interessadas (avaliadores e avaliados no SIMPAC) a solucinar os problemas relacionados a falta de informatização no processo de avaliação de projetos do SIMPAC-UNIVIÇOSA;
+
 # Projetos Futuros
 ## Implementação
 O projeto atual está sendo desenvolvido com base nas matérias de Interação Humano Computador e Engenharia de Software II, a implementação do trabalho em questão será feita no próximo semestre na matéria de Arquitetura de Software e Projeto Integrador.
 ## Modificações
 Os dados a serem cadastrados serão importados de de outro sistema, podendo assim utilizar o arquivo do banco de dados do outro sistema e subir esse arquivo no sistema Evoluir TI.
+# Conclusão
+Finalizamos assim mais um projeto integrador, esse que foi proposta e orientado pela professora Cristiane Aparecida Lana, com o objetivo de atender as demandas da NUPEX da Univiçosa. O projeto em questão tem o intuito de criar uma empresa simulada, promovendo o trabalho em equipe, o atendimento de clientes reais com desesafios reais. Dessa forma, a ATOMIC CODE desenvolvel todos processos reais de um projeto de desenolvimento de software, desde a fase de documentação até a criação de um prototipo de alta filidade. 
 
 ### Esse projeto foi desenvolvido por:
 
