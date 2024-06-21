@@ -261,7 +261,7 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 Um caso de uso é um método da engenharia de software que representa as interações entre um sistema e seus atores, descrevendo as ações que cada ator (usuário) pode realizar no sistema. Ele inclui os conceitos de include, onde um caso de uso pode incluir outro caso de uso para representar uma funcionalidade compartilhada, e extend, onde um caso de uso pode opcionalmente adicionar funcionalidade a outro caso de uso.
 - [Diagráma casos de uso]![diagrama casos de uso](https://github.com/ANTONIOAQUA/SIMPAC-2024/assets/131566467/f7f86535-7946-4e0b-8eb5-e870daf695c8)
 
-) <br>
+<br>
 
 #### Usuários:
 - Admin: O administrador do sistema, que tem várias responsabilidades de gerenciamento.
