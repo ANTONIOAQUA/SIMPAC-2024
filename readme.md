@@ -346,7 +346,8 @@ No diagrama, observamos diversas classes que representam diferentes entidades do
 ## Estados
 ### Introdução diagrama de estado
 Um diagrama de estado é uma representação visual que mostra todas as possíveis situações em que um objeto ou entidade específica pode estar e como ela muda de uma situação para outra em resposta a eventos externos ou condições internas.
-- [Diagráma de estados](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
+- [Diagráma de estados]![BLJ1YX~1](https://github.com/ANTONIOAQUA/SIMPAC-2024/assets/131566467/64d25dc1-d46a-4e98-af80-e7d6b85c7414)
+ <br>
 #### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
 - Login: Administradores e avaliadores usam o diagrama para entender o fluxo de login, incluindo o que acontece em caso de sucesso ou falha. <br>
 - Cadastro e Avaliação: O diagrama mostra claramente como os administradores cadastram novos projetos e como os avaliadores realizam suas avaliações, incluindo possíveis erros e suas correções .
