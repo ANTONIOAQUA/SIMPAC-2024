@@ -293,7 +293,7 @@ Um caso de uso é um método da engenharia de software que representa as intera�
 
 ## Sequência
 - [Diagráma de sequência](https://drive.google.com/file/d/1kqzm1ggbv5xz82-ZDJbS10ESY5_t3-ZP/view?usp=sharing) <br>
-
+GABRIEL
 
 
 
@@ -348,7 +348,7 @@ No diagrama, observamos diversas classes que representam diferentes entidades do
 ## Estados
 ### Introdução diagrama de estado
 Um diagrama de estado é uma representação visual que mostra todas as possíveis situações em que um objeto ou entidade específica pode estar e como ela muda de uma situação para outra em resposta a eventos externos ou condições internas.
-- [Diagráma de estado]![BLJ1YX~1](https://github.com/ANTONIOAQUA/SIMPAC-2024/assets/131566467/64d25dc1-d46a-4e98-af80-e7d6b85c7414)
+- [Diagráma de estado]![BLJ1YX~1](https://drive.google.com/file/d/10JsNKK1O93fwbIdvtsBgtqpQqwzxTpdp/view?usp=sharing)
  <br>
 #### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
 - Login: Administradores e avaliadores usam o diagrama para entender o fluxo de login, incluindo o que acontece em caso de sucesso ou falha. <br>
@@ -399,6 +399,7 @@ Esses diagramas ajudam a garantir que os processos sejam claros, compreensíveis
 - Foi organizado um fluxograma para orgarnizar as informações, identificar ações que podem ser feitas para os objetivos da organização ou avaliador.
 
 [Fluxograma](https://drive.google.com/file/d/1n8rzIqqmWy4uYPwh4GzWloxJ3DBx3u-o/view?usp=sharing)
+<br>
 Figura 7 - Fluxo Grama do sitema
 
 ## Avaliação - Especificação de requisitos 
