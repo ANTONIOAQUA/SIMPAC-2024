@@ -594,7 +594,7 @@ Foi realizado o refinamento dos requisitos de nível de usuário para o nível d
 <p align="center">
   <img src="ID visual.png" alt="Identidade Visual" />
   <br />
-  Figura XX
+ Figura 7 - Identidade Visual
 </p>
 
 #### Tipografia:
@@ -644,6 +644,7 @@ A partir do fluxograma, foi criado então o wireframe, que é uma representaçã
 - Para os resultados, que serão disponíveis apenas à organização do evento, lhe será disposto um login e ao entrar, basta escolher o curso que deseja olhar no momento, e será mostrado uma tabela com as notas tanto em poster quanto apresentações orais.
 
 ![Wireframe](./DIAGRAMAS/Wireframe-SIMPAC(1).png)
+Figura 8 - Wireframe
 
 ### Versão de baixa fidelidade
 <details>
@@ -651,15 +652,13 @@ A partir do fluxograma, foi criado então o wireframe, que é uma representaçã
 
 
 ![V.1 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1%20papel.jpg)
-imagem XX
+Figura 9 - Versão de baixa fidelidade
 ![V.1-1 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d1.1%20papel.jpg)
-imagem XX
+Figura 10 - Versão de baixa fidelidade
 ![V.1-2 Atomic Code](./Processos/Sprint_3/V.%20Intermediaria%20da%20solucao/d-1.2%20papel.jpg)
-imagem XX
+Figura 11 - Versão de baixa fidelidade
 
 </details>
-
-Figura XX - WireFrame Final
 
 # Protótipo de Alta Fidelidade
 ## Prototipação
@@ -669,14 +668,25 @@ O Figma foi utilizado como ferramenta de prototipação desenolvendo assim o pro
 
 - [Protótipo_Mobile](https://www.figma.com/proto/hQG8Ps6ihemtjCYfmpa5NJ/SIMAPAC-por-Vinicius?node-id=1-1254&t=Eg1O8OMdSZnxBV7A-1)
 - [Protótipo_Desktop](https://www.figma.com/proto/yDMbtaIZQP5urNRLNSLaIW/SIMPAC-por-Vinicius?node-id=659-877&t=6aQJH7TexvGHqaKf-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=557%3A4148&show-proto-sidebar=1)
+- [Vídeo apresentando o protótipo mobile](https://drive.google.com/file/d/1xcAjiEQ-fimfI_R7E-5RjRhMnTQBAMBA/view?usp=sharing)
+- [Vídeo apresentando o protótipo desktop](https://drive.google.com/file/d/1eX4Vxp6FyY1Kj83jH9EisYLPSSTS6XEk/view?usp=sharing)
 
 # Avaliação do protótipo
-- Uma segunda reunião foi feita com o cliente afim de validar o protipo (seu design e garantir as funcionalidades).
-- O cliente utilizou o protótipo atualizado e validou o prototipo.
+## Metodologia de Avaliação
+Foi realizada uma reunião presencial com o cliente utilizando a segunda versão do protótipo (pós Avaliação Especificação de requisitos). Durante o encontro foram definidas algumas metadas que o cliente deveria alcançar no aplicativo, tais como, criar projeto, definir avaliador para projeto, avaliar projeto. O intuito era testar todas funcionaliades do sistema e e se sua interface era de fácil entendimento.
+## Execução da Avaliação
+O cliente utilizou o prototipo livremente tentando alcançar as metas. 
+## Resultado da Avaliação
+O cliente ficou extremamente satisfeito, apenas não dando nota máxima para funções bem entegradas e facilidade de utilizar o sistema, mais detalhes sobre o resultado da avalição podem ser consultadas no questionario.
+- [Questionário de avalição do Evoluir Ti](https://drive.google.com/file/d/1XYwb2_f2M5CAHD5g2rS246TM8mdB1nfj/view?usp=sharing)
+## Conclusão
+O cliente validou o prótotipo.
 - [Documento do protótipo](Processos/Documento_de_Validacao_de_Prototipo_assinado.pdf)
-# Processo contínuo
 
-- [Vídeo explicativo sobre o protótipo]
+
+
+
+# Processo contínuo
 - Sera realizado um Pitch do projeto ao cliente, especialistas e investidores, frisar novamente todas as funcionalidades do protótipo e mostrar o sitema (protótipo), e como iria auxilar as partes interessadas (avaliadores e avaliados no SIMPAC) a solucinar os problemas relacionados a falta de informatização no processo de avaliação de projetos do SIMPAC-UNIVIÇOSA;
 
 # Projetos Futuros
