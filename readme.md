@@ -159,15 +159,12 @@ afetando outras pessoas envolvidas.
 
 
 ## Narrativa
-Num dia comum do SIMPAC na UniViçosa, a membro essencial do NUPEX Luana Pereira, se encontrou em uma situação desafiadora. Após um longo dia de avaliações de projetos, a professora perdeu as folhas onde havia registrado a avaliação de seus designados grupos. Foi a primeira vez que algo assim acontecia, e a sensação de desespero tomou conta dela.
-
+Em um dia onde estava ocorrendo as avaliações do SIMPAC, a Luana Pereira uma avaliadora se encontrou em uma situação desafiadora. Após uma longa noite de avaliações de projetos, a professora perdeu as folhas onde havia registrado a avaliação de seus designados grupos. Foi a primeira vez que algo assim acontecia, e a sensação de desespero tomou conta dela.
 O não apenas abalou Luana, mas também acendeu uma luz de alerta na secretaria do NUPEX, que atende a uma necessidade urgente de evitar futuros problemas semelhantes. Além disso, o processo de avaliação manual, apesar do tradicional, era lento e vulnerável a riscos, como o ocorrido com Luana.
-
-A busca por uma solução levou a cordenadora do NUPEX a um momento de reflexão sobre inovação no sistema de avaliação do SIMPAC. Em seu braid storme, ela se deparou com uma abordagem revolucionária: um aplicativo que simplificava todo o processo de avaliação, tornando-o digital e seguro.
-
+A busca por uma solução levou a cordenadora do NUPEX a um momento de reflexão sobre inovação no sistema de avaliação do SIMPAC. Em sua reflexão, ela se deparou com uma abordagem um aplicativo que simplificava todo o processo de avaliação, tornando-o digital e seguro.
 Esse sistema inovador permitiu que as avaliações fossem realizadas e organizadas por meio de um aplicação web no celular, eliminando assim os riscos de perda, otimizando o tempo e facilitando a vida dos avaliados. Com login e senha, o sistema garante a segurança e acessibilidade exclusiva aos avaliados, protegendo a confidencialidade das avaliações.
-
-A implementação desse novo sistema transformou a dinâmica do SIMPAC. Agora, o aplicativo de avaliações não apenas mitigava a possibilidade de incidentes como o de Luana, mas também tornava todo o processo mais eficiente e prático. A narrativa evidencia como a introdução de uma tecnologia inovadora pode redefinir um processo burocrático, atendendo às necessidades e frustrações dos usuários finais, e marcando uma nova era de eficiência no SIMPAC da Univiçosa.
+A implementação desse novo sistema transformou a dinâmica do SIMPAC. Agora, o aplicativo de avaliações não apenas mitigava a possibilidade de incidentes como o de Luana, mas também tornava todo o processo mais eficiente e prático.
+<br>A narrativa evidencia como a introdução de uma tecnologia inovadora pode redefinir um processo burocrático, atendendo às necessidades e frustrações dos usuários finais, e marcando uma nova era de eficiência no SIMPAC da Univiçosa.
 
 ## OMS - Análise das Partes Interessadas
 
@@ -342,7 +339,7 @@ No diagrama, observamos diversas classes que representam diferentes entidades do
 ### Introdução diagrama de estado
 Um diagrama de estado é uma representação visual que mostra todas as possíveis situações em que um objeto ou entidade específica pode estar e como ela muda de uma situação para outra em resposta a eventos externos ou condições internas.
 - [Diagráma de estado](https://drive.google.com/file/d/10JsNKK1O93fwbIdvtsBgtqpQqwzxTpdp/view?usp=sharing)
- <br>
+<br>
 #### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
 - Login: Administradores e avaliadores usam o diagrama para entender o fluxo de login, incluindo o que acontece em caso de sucesso ou falha. <br>
 - Cadastro e Avaliação: O diagrama mostra claramente como os administradores cadastram novos projetos e como os avaliadores realizam suas avaliações, incluindo possíveis erros e suas correções .
@@ -391,7 +388,7 @@ Esses diagramas ajudam a garantir que os processos sejam claros, compreensíveis
 ## Fluxograma
 - Foi organizado um fluxograma para orgarnizar as informações, identificar ações que podem ser feitas para os objetivos da organização ou avaliador.
 
-[Fluxograma](https://drive.google.com/file/d/1n8rzIqqmWy4uYPwh4GzWloxJ3DBx3u-o/view?usp=sharing)
+- [Fluxograma](https://drive.google.com/file/d/1n8rzIqqmWy4uYPwh4GzWloxJ3DBx3u-o/view?usp=sharing)
 <br>
 Figura 7 - Fluxo Grama do sitema
 
