@@ -242,6 +242,7 @@ A Elicitação de requisitos foi realizada através de uma reunião com um clien
 estes requisitos foram documentados a nível de usuário, ou seja, a um nível de explicação mais simples que o próprio cliente consegue compreender.
 - [Documento de requisitos a nível de usuário](Processos/Sprint_3/Requisitos_de_usuário.pdf)
 
+<br>
 
 
 
@@ -274,6 +275,7 @@ Um caso de uso é um método da engenharia de software que representa as intera�
 - Adminstradores podem ver os resultados de trabalhos.
 - Avaliadores só podem vizualizar os trabalhos a quais foram designado.
 
+<br>
 
 ## Classes
 ### Introdução ao Diagrama de Classe
@@ -302,6 +304,7 @@ No diagrama, observamos diversas classes que representam diferentes entidades do
 - Atributos: Lista Admin, Lista Avaliadores, Lista Trabalhos.
 - Métodos: AutenticarUsuario, EnviarNotificação, GerarRelatório.
 - Classe que representa o sistema como um todo, lidando com autenticação e comunicação entre usuários e trabalhos.
+<br>
 
 
 ## Sequência
@@ -333,6 +336,7 @@ O diagrama de sequência de autenticação visa representar de forma clara o flu
 #### O que o diagrama comunica: 
 Este diagrama comunica o processo completo de autenticação, incluindo como o sistema verifica as credenciais do usuário, gerencia a recuperação de senha e garante a segurança dos dados de login. Ele destaca as diferentes possibilidades (credenciais válidas e inválidas) e os passos subsequentes que o sistema toma em cada caso, proporcionando uma visão clara e detalhada do fluxo de autenticação.
 - [Diagrama de sequência(Login)](https://drive.google.com/drive/folders/1lt1sOdz3DocAN1NUy9vbQR6oxZJey5mK?usp=sharing)
+<br>
 
 ### Diagrama de Sequência de Gerenciamento de Avaliadores pelo Administrador
 Descrição: Este diagrama de sequência descreve o processo de gerenciamento de avaliadores pelo administrador, incluindo a adição, edição e remoção de avaliadores.
@@ -357,6 +361,7 @@ O diagrama de sequência de gerenciamento de avaliadores pelo administrador visa
 #### O que o diagrama comunica: 
 Este diagrama comunica o processo completo de gerenciamento de avaliadores pelo administrador, mostrando como ele pode adicionar, editar e remover avaliadores. Ele proporciona uma visão clara das operações e interações necessárias para manter e gerenciar os avaliadores dentro do sistema.
 - [Diagrama de sequência(Gerenciamento de Avaliadores)](https://drive.google.com/file/d/1ue9iJtYE2NeKLiRNSS403QZ4qFy3PfPL/view?usp=sharing)
+<br>
 
 ### Diagrama de Sequência de Criação de Trabalho pelo Administrador
 Descrição: Este diagrama de sequência descreve o processo de criação de um novo trabalho pelo administrador, incluindo a geração de um UUID único e a atribuição de avaliadores ao trabalho.
@@ -376,6 +381,7 @@ O diagrama de sequência de criação de trabalho pelo administrador visa repres
 #### O que o diagrama comunica: 
 Este diagrama comunica o processo completo de criação de trabalhos pelo administrador, mostrando como ele pode criar um novo trabalho e atribuir avaliadores a ele. Ele proporciona uma visão clara das operações e interações necessárias para a criação e gestão inicial de trabalhos dentro do sistema.
 - [Diagrama de sequência(Criação de trabalhos)](https://drive.google.com/file/d/1Rx4RfoG6sUpl11-e4mwz7d3X8Dq3RXUC/view?usp=sharing)
+<br>
 
 ### Diagrama de Sequência de Gerenciamento de Trabalhos pelo Administrador
 Descrição: Este diagrama de sequência descreve o processo de gerenciamento de trabalhos pelo administrador, incluindo a seleção, edição e exclusão de trabalhos.
@@ -401,6 +407,7 @@ O diagrama de sequência de gerenciamento de trabalhos pelo administrador visa r
 #### O que o diagrama comunica: 
 Este diagrama comunica o processo completo de gerenciamento de trabalhos pelo administrador, mostrando como ele pode selecionar, editar e excluir trabalhos, bem como atribuir avaliadores a esses trabalhos. Ele proporciona uma visão clara das operações e interações necessárias para manter e gerenciar os trabalhos dentro do sistema.
 - [Diagrama de sequência(Gerenciamento de trabalhos)](https://drive.google.com/file/d/1i_CcQOk6pSvROf1FrsG-r21rXKukuhmA/view?usp=sharing)
+<br>
 
 ### Diagrama de Sequência de Avaliação de Trabalhos pelo Avaliador
 Descrição: Este diagrama de sequência descreve o processo de avaliação de trabalhos pelo avaliador, incluindo a solicitação da lista de trabalhos, a seleção de um trabalho para avaliação e a submissão da avaliação.
@@ -420,6 +427,7 @@ O diagrama de sequência de avaliação de trabalhos pelo avaliador visa represe
 #### O que o diagrama comunica: 
 Este diagrama comunica o processo completo de avaliação de trabalhos pelo avaliador, mostrando como ele pode solicitar a lista de trabalhos, selecionar um trabalho para avaliação e submeter sua avaliação. Ele proporciona uma visão clara das operações e interações necessárias para a avaliação de trabalhos dentro do sistema.
 - [Diagrama de sequência(Avaliação de trabalhos)](https://drive.google.com/file/d/1wW3R-2jUuCo7btbpttFYmxBUA8zmL4Iw/view?usp=sharing)
+<br>
 
 
   
@@ -439,6 +447,7 @@ Descrição: Este diagrama de colaboração representa o processo de autenticaç
 #### Intuito do Diagrama: 
 O diagrama de colaboração de autenticação visa mostrar como o sistema interage internamente para processar as credenciais inseridas pelo usuário e iniciar o processo de verificação. Ele é útil para compreender o fluxo básico de autenticação no sistema e para desenvolver funcionalidades relacionadas à segurança e login.
 - [Diagrama de colaboração (Login)](https://drive.google.com/file/d/1jyJ5MwAnfk_vx1dCT8zRd29jZM2AeouW/view?usp=sharing)
+<br>
 
 ### Diagrama de Colaboração de Gerenciamento de Avaliadores pelo Administrador
 Descrição: Este diagrama de colaboração ilustra as interações envolvidas no gerenciamento de avaliadores pelo administrador, incluindo adicionar, editar e remover avaliadores.
@@ -452,6 +461,7 @@ Descrição: Este diagrama de colaboração ilustra as interações envolvidas n
 - Administrador seleciona um avaliador para remoção na Interface do Sistema.
 #### Intuito do Diagrama: O diagrama de colaboração de gerenciamento de avaliadores pelo administrador mostra como o administrador interage com o sistema para adicionar, editar e remover avaliadores. Ele é útil para entender as operações básicas de gerenciamento de usuários dentro do sistema de avaliação.
 - [Diagrama de colaboração (Gerenciamento de avaliadores)](https://drive.google.com/file/d/1Bbc4E94rikqaKT7pZjew-Kxcpg-Yw1pj/view?usp=sharing)
+<br>
 
 ### Diagrama de Colaboração de Criação de Trabalho pelo Administrador
 Descrição: Este diagrama de colaboração ilustra as interações envolvidas na criação de um novo trabalho pelo administrador, incluindo a geração de um identificador único (UUID), a atribuição de avaliadores e o salvamento do trabalho no banco de dados.
@@ -467,6 +477,7 @@ Descrição: Este diagrama de colaboração ilustra as interações envolvidas n
 #### Intuito do Diagrama: 
 O diagrama de colaboração de criação de trabalho pelo administrador mostra como o administrador interage com o sistema para criar, atribuir avaliadores e salvar um novo trabalho. Ele é útil para entender o fluxo completo de criação de novos registros dentro do sistema de gerenciamento de trabalhos, desde a geração de UUID até a atribuição de avaliadores e persistência dos dados no banco de dados.
 - [Diagrama de colaboração (Criação de trabalho)](https://drive.google.com/file/d/1p7i-qp19SjAjGpb1xwV7zqhJch2UpyJ-/view?usp=sharing)
+<br>
 
 ### Diagrama de Colaboração de Gerenciamento de Trabalhos pelo Administrador
 Descrição: Este diagrama de colaboração descreve as interações envolvidas no gerenciamento de trabalhos pelo administrador, incluindo a seleção, edição e exclusão de trabalhos.
@@ -482,6 +493,7 @@ Descrição: Este diagrama de colaboração descreve as interações envolvidas 
 #### Intuito do Diagrama: 
 O diagrama de colaboração de gerenciamento de trabalhos pelo administrador mostra as interações básicas envolvidas na administração de trabalhos dentro do sistema. Ele é útil para visualizar como o administrador interage com a interface para realizar operações como edição, exclusão e atribuição de avaliadores aos trabalhos.
 - [Diagrama de colaboração (Gerenciamento de trabalhos)](https://drive.google.com/file/d/1sjTLFPFPX6KZ-mCS_CdfXxAMD1k71iMt/view?usp=sharing)
+<br>
 
 
 ### Diagrama de Colaboração de Avaliação de Trabalhos pelo Avaliador
@@ -495,7 +507,8 @@ Descrição: Este diagrama de colaboração descreve as interações envolvidas 
 -- Avaliador submete sua avaliação na Interface do Sistema.
 #### Intuito do Diagrama: 
 O diagrama de colaboração de avaliação de trabalhos pelo avaliador mostra como o avaliador interage com o sistema para visualizar, selecionar e avaliar trabalhos atribuídos a ele. Ele é útil para compreender o fluxo de trabalho do avaliador durante o processo de avaliação dentro do sistema de gestão de trabalhos.
-- [Diagrama de colaboração (Avalição de trabalhos)](https://drive.google.com/file/d/15XkvaZYEfuC9eOoVTAwpmSPujEoYA4f7/view?usp=sharing)
+- [Diagrama de colaboração (Avalição de trabalhos)](https://drive.google.com/file/d/15XkvaZYEfuC9eOoVTAwpmSPujEoYA4f7/view?usp=sharing)<br>
+<br>
 
 
 
@@ -510,6 +523,7 @@ Um diagrama de estado é uma representação visual que mostra todas as possíve
 - Usuários do Sistema: Visualização de Resultados: O diagrama ajuda os usuários a entender como podem acessar os resultados das avaliações de projetos, partindo do menu principal. 
 - Desenvolvimento e Manutenção: implementação: Os desenvolvedores seguem o diagrama para garantir que todos os estados e transições estão implementados corretamente. 
 - Atualizações: Em caso de atualizações ou manutenção do sistema, o diagrama ajuda a identificar rapidamente como novos estados ou transições devem ser adicionados ou modificados. O diagrama de estado é, portanto, uma ferramenta poderosa para visualizar, planejar, implementar e manter sistemas complexos, garantindo que todos os aspectos do comportamento do sistema sejam compreendidos e bem gerenciados.
+<br>
 
 
 
@@ -546,16 +560,19 @@ Modela o processo pelo qual o administrador gerencia os trabalhos, começando co
 
 ### Objetivo:
 Esses diagramas ajudam a garantir que os processos sejam claros, compreensíveis e corretamente executados, melhorando a eficiência, segurança e usabilidade do sistema.
+<br>
 
 
 
 ## Fluxograma
 - Foi organizado um fluxograma para orgarnizar as informações, identificar ações que podem ser feitas para os objetivos da organização ou avaliador.
-- [Fluxograma do sistema](https://drive.google.com/file/d/1n8rzIqqmWy4uYPwh4GzWloxJ3DBx3u-o/view?usp=sharing)
+- [Fluxograma do sistema](https://drive.google.com/file/d/1n8rzIqqmWy4uYPwh4GzWloxJ3DBx3u-o/view?usp=sharing) <br>
+
 ## Avaliação - Especificação de requisitos 
 Foi realizado o refinamento dos requisitos de nível de usuário para o nível de sistema para auxiliar os desenvolvedores na etapa de prototipação do sistema.
 
 - [Documento de requisitos a nível de sistema](Processos/Sprint_3/Requisitos_do_Sistema_para_o_Projeto_SIMPAC.pdf)
+<br>
 
 ## Avaliação - Especificação de requisitos
 ### Validação de requisitos com o cliente
