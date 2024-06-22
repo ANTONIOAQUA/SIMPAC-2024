@@ -482,8 +482,8 @@ Figura XX - WireFrame Final
 O Figma foi utilizado como ferramenta de prototipação desenolvendo assim o prototipo de alta fidelidade, corrigndo alguns pontos e refinando ainda mais a usabilidade do sistema para fornecer uma experiência mais agradável aos usuários.
 -Existem dois protótipos, o desenvolvido pensado em dispositivos móveis e desktop.
 
-- [Protótipo_Mobile](https://www.figma.com/proto/yDMbtaIZQP5urNRLNSLaIW/SIMPAC-por-Vinicius?type=design&node-id=1-4&t=I9H7ZyO9Fwrh1jV3-1&scaling=scale-down&page-id=32%3A289&starting-point-node-id=1%3A4&show-proto-sidebar=1&mode=design)
-- [Protótipo_Desktop](https://www.figma.com/proto/bKh50EThTPfSIAmffkghy4/Untitled?type=design&node-id=0-3&t=LEdIqh2ObP9xoNPn-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=0%3A3&mode=design)
+- [Protótipo_Mobile](https://www.figma.com/proto/hQG8Ps6ihemtjCYfmpa5NJ/SIMAPAC-por-Vinicius?node-id=1-1254&t=Eg1O8OMdSZnxBV7A-1)
+- [Protótipo_Desktop](https://www.figma.com/proto/yDMbtaIZQP5urNRLNSLaIW/SIMPAC-por-Vinicius?node-id=659-877&t=6aQJH7TexvGHqaKf-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=557%3A4148&show-proto-sidebar=1)
 
 # Avaliação do protótipo
 - Uma segunda reunião foi feita com o cliente afim de validar o protipo (seu design e garantir as funcionalidades).
