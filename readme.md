@@ -170,7 +170,7 @@ A implementação desse novo sistema transformou a dinâmica do SIMPAC. Agora, o
 
 ### Personas
 Baseado no storytelling, as personas foram criadas para representar os stakeholders.
-![persona](./Processos/Sprint_3/Relatorio%20Atualizado/Persona-1_page-0001.jpg)
+![persona](./Processos/Sprint_3/Relatorio%20Atualizado/Persona-1_page-0003.jpg)
 Figura 3 - Persona de Marcos Silva
 ![persona2](./Processos/Sprint_3/Relatorio%20Atualizado/Persona-1_page-0002.jpg)
 Figura 4 - Persona Luana Pereira
@@ -250,9 +250,6 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 ### Introdução casos de uso
 Um caso de uso é um método da engenharia de software que representa as interações entre um sistema e seus atores, descrevendo as ações que cada ator (usuário) pode realizar no sistema. Ele inclui os conceitos de include, onde um caso de uso pode incluir outro caso de uso para representar uma funcionalidade compartilhada, e extend, onde um caso de uso pode opcionalmente adicionar funcionalidade a outro caso de uso.
 - [Diagráma casos de uso](https://drive.google.com/file/d/1yVZspcJCOXUUYTCCWBUkr8FXfLzX_vi6/view?usp=sharing)
-
-<br>
-
 #### Usuários:
 - Admin: O administrador do sistema, que tem várias responsabilidades de gerenciamento.
 - Avaliador: A pessoa que realiza as avaliações dos trabalhos.
@@ -317,7 +314,7 @@ No diagrama, observamos diversas classes que representam diferentes entidades do
 
   
 ## Colaboração
-- [Diagráma de colaboração](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing) <br>
+- [Diagráma de colaboração](https://drive.google.com/file/d/17flyofmhTykFYNmgYqyAsTEph1lcKjSO/view?usp=sharing)
 ### Descrição do diagrama Colaboração
 #### Avaliador:
 - Atributos: Lista Trabalhos Atribuídos.
@@ -338,8 +335,7 @@ No diagrama, observamos diversas classes que representam diferentes entidades do
 ## Estados
 ### Introdução diagrama de estado
 Um diagrama de estado é uma representação visual que mostra todas as possíveis situações em que um objeto ou entidade específica pode estar e como ela muda de uma situação para outra em resposta a eventos externos ou condições internas.
-- [Diagráma de estado](https://drive.google.com/file/d/10JsNKK1O93fwbIdvtsBgtqpQqwzxTpdp/view?usp=sharing)
-<br>
+- [Diagráma de estado](https://drive.google.com/file/d/10JsNKK1O93fwbIdvtsBgtqpQqwzxTpdp/view?usp=sharing)<br>
 #### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
 - Login: Administradores e avaliadores usam o diagrama para entender o fluxo de login, incluindo o que acontece em caso de sucesso ou falha. <br>
 - Cadastro e Avaliação: O diagrama mostra claramente como os administradores cadastram novos projetos e como os avaliadores realizam suas avaliações, incluindo possíveis erros e suas correções .
@@ -387,11 +383,7 @@ Esses diagramas ajudam a garantir que os processos sejam claros, compreensíveis
 
 ## Fluxograma
 - Foi organizado um fluxograma para orgarnizar as informações, identificar ações que podem ser feitas para os objetivos da organização ou avaliador.
-
-- [Fluxograma](https://drive.google.com/file/d/1n8rzIqqmWy4uYPwh4GzWloxJ3DBx3u-o/view?usp=sharing)
-<br>
-Figura 7 - Fluxo Grama do sitema
-
+- [Fluxograma do sistema](https://drive.google.com/file/d/1n8rzIqqmWy4uYPwh4GzWloxJ3DBx3u-o/view?usp=sharing)
 ## Avaliação - Especificação de requisitos 
 Foi realizado o refinamento dos requisitos de nível de usuário para o nível de sistema para auxiliar os desenvolvedores na etapa de prototipação do sistema.
 
