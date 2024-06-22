@@ -239,18 +239,11 @@ em um produto mais alinhado com os requisitos do cliente e satisfatório para os
 usuários finais.
 
 
----
-
 ## Engenharia de requisitos
-
 ### Elicitação de requisitos
-
 A Elicitação de requisitos foi realizada através de uma reunião com um cliente que junto com nossa equipe foram levantados os requisitos para resolver o atual problema da avalição do SIMPAC, 
 estes requisitos foram documentados a nível de usuário, ou seja, a um nível de explicação mais simples que o próprio cliente consegue compreender.
-
 - [Documento de requisitos a nível de usuário](Processos/Sprint_3/Requisitos_de_usuário.pdf)
-
-
 
 
 
@@ -259,7 +252,7 @@ estes requisitos foram documentados a nível de usuário, ou seja, a um nível d
 ## Casos de Uso
 ### Introdução casos de uso
 Um caso de uso é um método da engenharia de software que representa as interações entre um sistema e seus atores, descrevendo as ações que cada ator (usuário) pode realizar no sistema. Ele inclui os conceitos de include, onde um caso de uso pode incluir outro caso de uso para representar uma funcionalidade compartilhada, e extend, onde um caso de uso pode opcionalmente adicionar funcionalidade a outro caso de uso.
-- [Diagráma casos de uso]![diagrama casos de uso](https://github.com/ANTONIOAQUA/SIMPAC-2024/assets/131566467/f7f86535-7946-4e0b-8eb5-e870daf695c8)
+- [Diagráma casos de uso](https://drive.google.com/file/d/1yVZspcJCOXUUYTCCWBUkr8FXfLzX_vi6/view?usp=sharing)
 
 <br>
 
@@ -348,7 +341,7 @@ No diagrama, observamos diversas classes que representam diferentes entidades do
 ## Estados
 ### Introdução diagrama de estado
 Um diagrama de estado é uma representação visual que mostra todas as possíveis situações em que um objeto ou entidade específica pode estar e como ela muda de uma situação para outra em resposta a eventos externos ou condições internas.
-- [Diagráma de estado]![BLJ1YX~1](https://drive.google.com/file/d/10JsNKK1O93fwbIdvtsBgtqpQqwzxTpdp/view?usp=sharing)
+- [Diagráma de estado](https://drive.google.com/file/d/10JsNKK1O93fwbIdvtsBgtqpQqwzxTpdp/view?usp=sharing)
  <br>
 #### Para o sistema de gerenciamento de submissão e avaliação de projetos SIMPAC, o diagrama de estado pode ser usado da seguinte maneira: 
 - Login: Administradores e avaliadores usam o diagrama para entender o fluxo de login, incluindo o que acontece em caso de sucesso ou falha. <br>
@@ -506,7 +499,7 @@ O Figma foi utilizado como ferramenta de prototipação desenolvendo assim o pro
 # Avaliação do protótipo
 - Uma segunda reunião foi feita com o cliente afim de validar o protipo (seu design e garantir as funcionalidades).
 - O cliente utilizou o protótipo atualizado e validou o prototipo.
--  xxx avalição do prototipo
+- [Documento do protótipo](Processos/Documento_de_Validacao_de_Prototipo_assinado.pdf)
 # Processo contínuo
 
 - [Vídeo explicativo sobre o protótipo]
@@ -517,6 +510,7 @@ O Figma foi utilizado como ferramenta de prototipação desenolvendo assim o pro
 O projeto atual está sendo desenvolvido com base nas matérias de Interação Humano Computador e Engenharia de Software II, a implementação do trabalho em questão será feita no próximo semestre na matéria de Arquitetura de Software e Projeto Integrador.
 ## Modificações
 Os dados a serem cadastrados serão importados de de outro sistema, podendo assim utilizar o arquivo do banco de dados do outro sistema e subir esse arquivo no sistema Evoluir TI.
+
 # Conclusão
 Finalizamos assim mais um projeto integrador, esse que foi proposta e orientado pela professora Cristiane Aparecida Lana, com o objetivo de atender as demandas da NUPEX da Univiçosa. O projeto em questão tem o intuito de criar uma empresa simulada, promovendo o trabalho em equipe, o atendimento de clientes reais com desesafios reais. Dessa forma, a ATOMIC CODE desenvolvel todos processos reais de um projeto de desenolvimento de software, desde a fase de documentação até a criação de um prototipo de alta filidade. 
 
