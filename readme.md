@@ -281,7 +281,7 @@ Um caso de uso é um método da engenharia de software que representa as intera�
 ### Introdução ao Diagrama de Classe
 No diagrama, observamos diversas classes que representam diferentes entidades do sistema, como usuários, administradores, avaliadores e os próprios trabalhos. Cada classe contém atributos e métodos que definem as suas propriedades e comportamentos.
 
-- [Diagrama de classes](https://drive.google.com/file/d/1AuMt8c_RJhknCfidFCA7WQmffumdQa0K/view?usp=sharing) <br>
+- [Diagrama de classes](https://drive.google.com/file/d/1_muJQ0POb0he1zXLM1GhGlY2mdmDtSiK/view?usp=sharing) <br>
 
 ### Descrição das Classes:
 #### Usuário:
