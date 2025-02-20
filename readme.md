@@ -702,7 +702,7 @@ Finalizamos assim mais um projeto integrador, esse que foi proposta e orientado 
 
 - Antônio Henrico Aguiar Lopes, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Vinicius Fontes, Estudante de Desenvolvimento de Software da UNIVIÇOSA
-- Lucas Fontes, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+- Lucas Santana, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Gabriel Ribas Pena, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - André, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Pedro, Estudante de Desenvolvimento de Software da UNIVIÇOSA
