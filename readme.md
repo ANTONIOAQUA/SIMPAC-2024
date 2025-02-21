@@ -707,5 +707,8 @@ Finalizamos assim mais um projeto integrador, esse que foi proposta e orientado 
 - André, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Pedro, Estudante de Desenvolvimento de Software da UNIVIÇOSA
 - Reberth, Estudante de Desenvolvimento de Software da UNIVIÇOSA
+
+- **Supervisor(a):**
+- Cristiane Aparecida Lana
     
 
